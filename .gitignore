@@ -1,0 +1,9 @@
+# pipeline runtime
+research/state.json
+research/__pycache__/
+__pycache__/
+*.pyc
+# downloaded media (large; fetch locally via the pipeline)
+90-Assets/*
+!90-Assets/.gitkeep
+.DS_Store

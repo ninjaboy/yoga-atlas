@@ -1,0 +1,160 @@
+# Yoga Atlas — deep research plan
+# Each stage is run by research_pipeline.py: research → self-critique for gaps →
+# (optional) gap-fill pass → write markdown into the vault. Edit freely.
+
+project: "Yoga Atlas"
+# Style to imitate: the demonology vault — sourced-only, open-licence images only
+# (Public Domain / Creative Commons), respectful and historically grounded framing,
+# Obsidian markdown with [[wiki-links]], tables, and the occasional mermaid diagram.
+style_notes: |
+  Write like a careful Obsidian knowledge-vault. Every non-obvious claim gets a
+  source (inline or a Sources section). Images/video: ONLY open-licence (PD/CC/
+  Wikimedia/Internet Archive/official channels) — record the URL, licence and
+  attribution; never hotlink unlicensed media. Be respectful of yoga as a living
+  tradition: distinguish historical, philosophical and modern-commercial threads
+  without sneering. Use [[wiki-links]] to other notes liberally.
+
+stages:
+  - id: "00-overview"
+    title: "Scope map & overview"
+    out: "00-Maps/Overview.md"
+    prompt: |
+      Produce a top-level map of the entire field of yoga as a subject of study:
+      the major axes (history, philosophy, lineages/schools, texts, key figures,
+      asanas/practices, modern transnational styles, and media/iconography). Give a
+      one-paragraph orientation to each axis and a mermaid map linking them. This is
+      the index the rest of the atlas hangs from.
+    checklist:
+      - "Names all major axes the later stages cover"
+      - "Has a mermaid overview diagram"
+      - "Flags the historical vs modern-commercial distinction"
+
+  - id: "10-history"
+    title: "History & origins"
+    out: "10-Traditions/History-and-Origins.md"
+    prompt: |
+      Deep history of yoga from earliest evidence to today: Indus Valley debates,
+      Vedas, Upanishads, Samkhya roots, Patañjali's classical yoga, the Buddhist and
+      Jain parallels, medieval Hatha & Tantra, the colonial encounter, and the 19th–
+      20th c. transnational/modern postural yoga (Vivekananda, Krishnamacharya school,
+      the gymnastics/physical-culture influence per Mark Singleton). Be precise about
+      dates, contested claims, and primary evidence.
+    checklist:
+      - "Covers pre-classical, classical, medieval Hatha/Tantra, and modern eras"
+      - "Engages the scholarly debate on modern postural yoga (e.g. Singleton)"
+      - "Dates and contested points are flagged, with sources"
+
+  - id: "20-traditions"
+    title: "Traditions, paths & lineages"
+    out: "10-Traditions/Paths-and-Lineages.md"
+    prompt: |
+      The classical paths (Raja, Hatha, Jnana, Bhakti, Karma, Mantra, Laya/Kundalini,
+      Tantra) and the major modern lineages/schools (Krishnamacharya → Iyengar,
+      Ashtanga/Pattabhi Jois, Viniyoga/Desikachar; Sivananda; Bihar School; Kundalini/
+      Yogi Bhajan; modern Vinyasa/Power; Bikram/hot; Yin; Restorative). For each: origin,
+      defining method, founder, and how it relates to the others.
+    checklist:
+      - "Covers both classical paths and modern schools"
+      - "Each lineage has founder + defining method"
+      - "Cross-links between related schools"
+
+  - id: "30-texts"
+    title: "Foundational texts & sources"
+    out: "40-Texts/Foundational-Texts.md"
+    prompt: |
+      The source literature: Vedas/Upanishads (esp. Katha, Svetasvatara), Bhagavad
+      Gita, Patañjali's Yoga Sūtras (+ key commentaries), the Hatha corpus (Hatha
+      Yoga Pradīpikā, Gheraṇḍa Saṃhitā, Śiva Saṃhitā, Goraksha Śataka), tantric
+      sources, and influential modern books. For each: date, author/attribution,
+      language, contents, and where an open-licence text/translation can be read
+      (Archive.org, sacred-texts, Wikisource).
+    checklist:
+      - "Classical, Hatha, and modern texts all covered"
+      - "Each text has date/author/contents"
+      - "Open-licence reading links where they exist"
+
+  - id: "40-figures"
+    title: "Key figures"
+    out: "50-Figures/Key-Figures.md"
+    prompt: |
+      The people: legendary/classical (Patañjali, Matsyendranath, Gorakshanath) and
+      modern (Vivekananda, T. Krishnamacharya, B.K.S. Iyengar, K. Pattabhi Jois,
+      Indra Devi, Swami Sivananda, Swami Satyananda, Yogi Bhajan, Paramahansa
+      Yogananda, B.N.S. Iyengar, contemporary scholars like Mark Singleton & James
+      Mallinson). For each: dates, lineage, contribution, controversies where
+      relevant — handled factually.
+    checklist:
+      - "Classical and modern figures both covered"
+      - "Each has dates + contribution"
+      - "Controversies handled factually, with sources"
+
+  - id: "50-asanas"
+    title: "Asanas (postures) catalogue"
+    out: "30-Asanas/Asana-Catalogue.md"
+    prompt: |
+      A catalogue of the major asanas: Sanskrit + English name, category (standing,
+      seated, twist, inversion, backbend, balance, restorative), brief description,
+      traditional vs modern provenance (which postures are actually old vs 20th c.
+      inventions — cite Mallinson/Singleton's 'Roots of Yoga' where relevant), and
+      principal benefits/cautions as commonly taught. Group by category.
+    checklist:
+      - "Grouped by category, 30+ asanas"
+      - "Sanskrit + English names"
+      - "Notes traditional vs modern provenance with sources"
+
+  - id: "60-practices"
+    title: "Pranayama, kriyas, meditation & subtle body"
+    out: "70-Practices/Practices.md"
+    prompt: |
+      Non-asana practice: pranayama techniques (nadi shodhana, ujjayi, kapalabhati,
+      bhastrika, etc.), bandhas, mudras, the shatkarmas/kriyas, meditation and
+      pratyahara, plus the subtle-body model (nadis, prana, kundalini) as the texts
+      describe it. Distinguish what classical sources say from modern claims; note
+      safety where serious.
+    checklist:
+      - "Pranayama, bandhas, mudras, kriyas, meditation all covered"
+      - "Subtle-body model explained from sources"
+      - "Classical vs modern claims distinguished"
+
+  - id: "70-philosophy"
+    title: "Philosophy & core concepts"
+    out: "60-Concepts/Philosophy-and-Concepts.md"
+    prompt: |
+      The conceptual framework: Patañjali's eight limbs (ashtanga), the yamas/niyamas,
+      Samkhya metaphysics (purusha/prakriti, the gunas), kleshas, samadhi & kaivalya,
+      the koshas, chakras and subtle anatomy, and how Vedanta/Tantra reframe the goal.
+      Define each term, cite the source, and link to the relevant texts/practices notes.
+    checklist:
+      - "Eight limbs + yamas/niyamas enumerated"
+      - "Samkhya metaphysics and samadhi explained"
+      - "Koshas/chakras covered with sources; cross-links"
+
+  - id: "80-modern"
+    title: "Modern styles & global spread"
+    out: "20-Schools/Modern-Styles.md"
+    prompt: |
+      Modern transnational yoga: how it spread West (1893 Parliament of Religions →
+      today), the major branded/commercial styles and their differences, the wellness/
+      fitness turn, cultural-appropriation and authenticity debates, scientific/medical
+      research on yoga, and the scale of the modern industry. Factual and balanced.
+    checklist:
+      - "Spread narrative + major modern styles"
+      - "Appropriation/authenticity debate covered fairly"
+      - "Mentions scientific research + industry scale, with sources"
+
+  - id: "90-media"
+    title: "Open-licence images & video"
+    out: "80-Media/Open-Media.md"
+    download: true        # pipeline auto-downloads the confirmed open-licence files
+    prompt: |
+      Compile a sourced media library of OPEN-LICENCE (Public Domain / Creative
+      Commons / Wikimedia / Internet Archive / official channels) images and video for
+      the atlas: historical manuscript illustrations, vintage photographs of the great
+      teachers, asana plates, iconography (Shiva as Adiyogi, Patañjali), and good
+      instructional/historical video. For EACH item record: title, direct URL, source/
+      repository, licence, attribution string, and which atlas note it illustrates.
+      Do NOT include anything whose licence you cannot confirm as open.
+    checklist:
+      - "Each item has URL + repository + licence + attribution"
+      - "Only confirmed open-licence media included"
+      - "Items mapped to the notes they illustrate"
