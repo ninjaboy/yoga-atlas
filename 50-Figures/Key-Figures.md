@@ -6,82 +6,214 @@ generated: 2026-06-22
 
 # 👤 Key Figures
 
-From legendary compilers and medieval ascetics to the modern teachers and scholars
-who built — and now critically re-read — today's global practice. Grouped here as
-**classical / legendary** and **modern**, with documented misconduct stated plainly
-where it forms part of the record.
+Yoga did not descend, finished and whole, from the Himalayas. It was made — and
+remade — by particular people in particular rooms: a shadowy compiler stitching
+aphorisms into a system, medieval ascetics inventing a body of light, a saffron-robed
+monk holding a Chicago auditorium spellbound, a demanding South Indian master whose
+handful of students would carry posture practice to every continent. This page
+introduces those people. Read it as a gallery wall: meet the figures in rough
+chronological order, watch the lineages branch, and notice — where it belongs — the
+documented misconduct that is also part of the honest record.
 
 ---
 
-## Classical & legendary
+## The classical and the legendary
 
-| Figure | Period | Lineage / school | Principal works | Contribution |
-|---|---|---|---|---|
-| **Patañjali** | text c. 350–450 CE; legendary figure undated | Compiler of the [[Foundational-Texts\|Yoga Sūtras]] / Pātañjala-yoga | *Yoga Sūtras* (~196 aphorisms) and, in recent philology, the *Pātañjala-yogaśāstra* commentary (*bhāṣya*) | Systematised the eight-limbed (aṣṭāṅga) **Rāja yoga**; defined yoga as *citta-vṛtti-nirodha*. Traditionally an incarnation of the serpent Ādiśeṣa. |
-| **Matsyendranāth** | early 10th c. (placed 7th–12th c.) | Founder-figure of the **Nāth** (Nātha Sampradāya) | Attributed: *Kaulajñānanirṇaya*, *Matsyendrasaṃhitā* | Foundational guru of the Nāth lineage; tantric/Kaula teachings feeding the subtle-body tradition behind [[Practices\|haṭha]]. |
-| **Gorakṣanāth (Gorakhnāth)** | c. early 11th c. | Nāth; disciple of Matsyendranāth | Works of the Gorakṣa corpus (later attributions) | Credited with **systematising haṭha yoga** and building the monastic structure of the Nāth order; central to medieval subtle-body teachings → [[History-and-Origins]]. |
+We begin in deep, uncertain time, where biography blurs into myth.
+
+**Patañjali** is the most influential figure in yoga's history and one of the least
+knowable. Tradition makes him an incarnation of **Ādiśeṣa**, the thousand-headed
+cosmic serpent on whom the god Viṣṇu reclines — which is to say tradition admits, in
+its own idiom, that it does not really know who he was. What survives is the work: the
+[[Foundational-Texts|Yoga Sūtras]], roughly 196 terse aphorisms that gave the
+sprawling yogic world a spine. From them comes the line every later teacher leans on —
+yoga as *citta-vṛtti-nirodha*, the stilling of the fluctuations of the mind — and the
+eight-limbed (aṣṭāṅga) ladder of **Rāja yoga** that climbs from ethics through posture
+and breath to absorption. Whatever the man was, the text became the lawbook.
 
 ![Garlanded statue of Patañjali depicted as an incarnation of the serpent Ādiśeṣa, hands joined in añjali](https://upload.wikimedia.org/wikipedia/commons/4/47/Patanjali.jpg)
 
 *A garlanded **Patañjali** murti, shown as an avatar of Ādiśeṣa. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Patanjali.jpg) · Licence: CC BY-SA 3.0 / GFDL · Attribution: Rpba (2006).*
 
-> **Dating note.** Scholars long placed the *Yoga Sūtras* anywhere from 500 BCE to the
-> 3rd c. CE. Philipp A. Maas dates the *Pātañjala-yogaśāstra* to **c. 400 CE** and argues
-> that the same author-redactor wrote both sūtra and commentary — challenging the older
-> tradition that the *bhāṣya* was a separate work by **Vyāsa**. The clean two-author split
-> (Patañjali / Vyāsa) only becomes explicit in the 14th-c. *Sarvadarśanasaṅgraha*.
+Even Patañjali's dates are a scholarly argument rather than a fact. For a long time the
+*Sūtras* were placed anywhere from 500 BCE to the 3rd century CE, and the accompanying
+commentary (*bhāṣya*) was credited to a separate sage named **Vyāsa**. Recent
+philology has tightened and complicated the picture: Philipp A. Maas dates the combined
+*Pātañjala-yogaśāstra* — sūtra plus commentary — to **c. 400 CE** and argues that a
+single author-redactor wrote both, the text we now read taking shape around 350–450 CE.
+The tidy two-author split into Patañjali and Vyāsa, it turns out, only becomes explicit
+in the 14th-century *Sarvadarśanasaṅgraha*. The compiler, fittingly, keeps slipping out
+of focus.
+
+If Patañjali gave yoga its philosophy, the **Nāths** gave it a body. Some five or six
+centuries later, in the mist of the early medieval period, two tantric ascetics anchor
+the lineage that would invent [[Practices|haṭha]] yoga. **Matsyendranāth** — whose name
+means "lord of the fishes," and whose legend has him learning the secret teaching while
+swallowed by one — is the founder-figure of the **Nātha Sampradāya**, credited with
+Kaula texts such as the *Kaulajñānanirṇaya*. His disciple **Gorakṣanāth** (Gorakhnāth)
+is the more consequential of the pair for our story: tradition credits him with
+**systematising haṭha yoga** and forging the wandering Nāth order into a durable
+monastic structure. Theirs is the world of the subtle body — channels, knots and
+coiled energy — out of which the physical disciplines later teachers would inherit
+first took shape. The thread from here runs straight into [[History-and-Origins]].
+
+| Figure | Period | Lineage | Why they matter |
+|---|---|---|---|
+| **Patañjali** | text c. 350–450 CE | Pātañjala-yoga | Systematised aṣṭāṅga / Rāja yoga in the *Yoga Sūtras* |
+| **Matsyendranāth** | early 10th c. (placed 7th–12th) | Nāth founder | Tantric/Kaula source of the subtle-body tradition |
+| **Gorakṣanāth** | c. early 11th c. | Nāth | Systematised haṭha; built the Nāth monastic order |
 
 ---
 
-## Modern (19th–21st c.)
+## The transnational hinge (19th–early 20th c.)
 
-### The transnational hinge
+For most of its history yoga was an Indian conversation. Then, in the span of a single
+generation, it became a global one — and three monks did most of the carrying.
 
-| Figure | Dates | Lineage / school | Principal works | Contribution |
-|---|---|---|---|---|
-| **Swami Vivekānanda** | 1863–1902 | Ramakrishna lineage; Vedānta | *Rāja Yoga* (July 1896) | Presented Hindu thought at the **1893** World's Parliament of Religions (Chicago); his *Rāja Yoga* reframed Patañjali for the West and seeded "modern yoga" as a transnational idea. |
-| **Paramahansa Yogananda** | 1893–1952 (b. Mukunda Lal Ghosh) | Kriyā yoga (Lahiri Mahasaya / Yukteswar lineage) | *Autobiography of a Yogi* (1946) | Came to the US in 1920; founded the **Self-Realization Fellowship** (Los Angeles); popularised **kriyā yoga** and devotional yoga to a mass Western audience. |
-| **Swami Sivananda (Saraswati)** | 1887–1963 | Founder, **Divine Life Society** (Rishikesh, 1936) | Prolific author (~200+ books) | Physician in British Malaya → renunciate; built a Rishikesh hub whose "Five Points" frame → [[Paths-and-Lineages]]. Teacher of Satyananda, Vishnudevananda and others. |
+The hinge moment has a date: **September 1893**, the World's Parliament of Religions in
+Chicago. A young, almost unknown Bengali renunciate named **Swami Vivekānanda**
+(1863–1902), a disciple of the mystic Ramakrishna, rose to speak — and electrified the
+hall. He addressed the audience not as heathens to be converted but as "Sisters and
+Brothers of America," and in that instant Vedānta entered Western intellectual life as
+something to be reckoned with rather than pitied. Three years later his book *Rāja
+Yoga* (1896) reframed Patañjali for English readers as a rational science of the inner
+life. More than any single text, it seeded the very idea of "modern yoga" as something
+that could travel.
 
 ![Signed 1893 Chicago portrait of Swami Vivekananda in a turban, arms folded](https://upload.wikimedia.org/wikipedia/commons/0/0b/Swami_Vivekananda-1893-09-signed.jpg)
 
 *The famous signed **Swami Vivekānanda** portrait, Chicago, September 1893. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Swami_Vivekananda-1893-09-signed.jpg) · Licence: Public domain (published 1893, author unknown). · Attribution: photographer unknown.*
 
+Where Vivekānanda opened the door, **Paramahansa Yogananda** (1893–1952) — born Mukunda
+Lal Ghosh — walked the masses through it. He sailed for America in 1920 and stayed,
+founding the **Self-Realization Fellowship** in Los Angeles and teaching the devotional
+**kriyā yoga** of the Lahiri Mahasaya–Yukteswar lineage to an ever-widening public. His
+*Autobiography of a Yogi* (1946), with its miracle-strewn cast of saints and gurus, has
+never gone out of print and remains, for countless Western readers, the first yogic
+book they ever loved.
+
 ![Standard studio portrait of Paramahansa Yogananda, c. 1920](https://upload.wikimedia.org/wikipedia/commons/3/3f/Paramahansa_Yogananda_Standard_Pose.jpg)
 
 *The "standard pose" portrait of **Paramahansa Yogananda**, c. 1920. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Paramahansa_Yogananda_Standard_Pose.jpg) · Licence: Public domain in the US (copyright not renewed). · Attribution: author unknown.*
+
+The third of the carriers stayed home and built an institution. **Swami Sivananda
+Saraswati** (1887–1963) had been a physician in British Malaya before he renounced the
+world; in 1936 he founded the **Divine Life Society** on the banks of the Ganges at
+Rishikesh and wrote, by some counts, more than two hundred books. His distilled "Five
+Points" frame still underpins whole modern schools (see [[Paths-and-Lineages]]), and
+his disciples — Satyananda, Vishnudevananda and others — fanned out across the world.
+Rishikesh's enduring reputation as the "yoga capital" is, in large part, his legacy.
 
 ![Portrait of Swami Sivananda Saraswati](https://upload.wikimedia.org/wikipedia/commons/3/34/Swami_Shivananda_Liebe.jpg)
 
 *A portrait of **Swami Sivananda Saraswati**. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Swami_Shivananda_Liebe.jpg) · Licence: CC BY-SA 3.0 · Attribution: Wikimedia user Nobody60 (2011).*
 
-### Krishnamacharya & his students — the root of modern posture yoga
+---
 
-| Figure | Dates | Lineage / school | Principal works | Contribution |
-|---|---|---|---|---|
-| **T. Krishnamacharya** | 1888–1989 | Taught at the **Mysore Palace** (1930s–40s) | (worked through his students) | The **"father of modern yoga as exercise."** Synthesised haṭha texts (incl. the *Śrītattvanidhi*), Indian wrestling/gymnastics and his own innovation into the dynamic posture practice his students globalised. |
-| **B.K.S. Iyengar** | 1918–2014 | **Iyengar Yoga** (precision alignment, props) | *Light on Yoga* (1966) | Krishnamacharya's brother-in-law and student; arguably the single greatest worldwide popularizer; codified detailed alignment and the use of props. |
-| **K. Pattabhi Jois** | 1915–2009 | **Ashtanga Vinyasa** (set series, breath-linked) | *Yoga Mala* (1962) | Originated the flowing set-series practice behind modern vinyasa/"flow" yoga. **Documented misconduct:** multiple women report he sexually assaulted female students during hands-on "adjustments," with video/photographic evidence; his grandson R. Sharath Jois publicly apologised in 2018. |
-| **T.K.V. Desikachar** | 1938–2016 | **Viniyoga** (Krishnamacharya Yoga Mandiram, Chennai) | *The Heart of Yoga* (1995) | Krishnamacharya's son; developed individualised, therapeutic yoga adapted to each student's condition and needs. |
-| **Indra Devi** | 1899–2002 (b. Eugenie Peterson, Riga) | Krishnamacharya student → global teacher | *Forever Young, Forever Healthy* (1953) | First Western woman to study under Krishnamacharya at Mysore; the **"First Lady of Yoga,"** taught Hollywood and later the USSR and Latin America. |
+## Krishnamacharya and his tree — the root of modern posture yoga
 
-> **No portraits shown here.** The well-known photographs of Krishnamacharya, Iyengar, Pattabhi Jois, Desikachar and Indra Devi are 20th-century images that remain under copyright (or have no verified free licence), so none are embedded. The same applies to the other modern figures and contemporary scholars below.
+If you have ever held a downward dog in a studio anywhere on earth, the lineage almost
+certainly runs back to one demanding man in a palace in southern India.
 
-### Other notable moderns
+**T. Krishnamacharya** (1888–1989) is often called the **"father of modern yoga as
+exercise"** — and unlike most such titles, this one is close to literal. A scholar of
+formidable learning, he was installed in the 1930s and 40s in a yoga hall at the
+**Mysore Palace**, teaching the maharaja's energetic young charges. There he fused
+inherited haṭha material (including the *Śrītattvanidhi*), the dynamism of Indian
+wrestling and gymnastics, and his own restless invention into something new: a flowing,
+athletic, breath-linked posture practice. Krishnamacharya himself published almost
+nothing for the world. He didn't need to. He taught the students who would.
 
-| Figure | Dates | Lineage / school | Principal works | Contribution |
-|---|---|---|---|---|
-| **Swami Kuvalayananda** | 1883–1966 | Founder, **Kaivalyadhama** (Lonavla, 1924) | Journal *Yoga Mīmāṃsā* (from 1924) | Pioneer of **scientific yoga research**; used X-ray, blood-pressure and physiological methods to study āsana and kriyā — an early bridge between yoga and laboratory science. |
-| **Swami Satyananda (Saraswati)** | 1923–2009 | Founder, **Bihar School of Yoga** (1963); student of Sivananda | *Yoga Nidra* and many manuals | Systematised modern **Yoga Nidrā** (guided yogic sleep) and a complete teaching system; founded the International Yoga Fellowship (1956). |
-| **Yogi Bhajan** | 1929–2004 (b. Harbhajan Singh Khalsa) | Brought **Kuṇḍalinī Yoga** West; founded 3HO (1969) | Recorded teachings/manuals | Built a large Kundalini Yoga and business network in the US. **Documented misconduct:** the 2020 independent *An Olive Branch* report concluded that allegations of sexual and spiritual abuse "more likely than not" occurred. |
-| **Bikram Choudhury** | b. 1944 | **Bikram (hot) Yoga**, 26-posture sequence | (sequence/method) | Popularised heated studio yoga and aggressively franchised it. **Documented misconduct:** multiple sexual-assault/harassment lawsuits from 2013 on; multimillion-dollar judgments (e.g. $6.8 m in 2016, $7 m in 2017) and an arrest warrant after he left the US. |
+And what a set of students. From that one teacher branch four lineages that between
+them account for most of the postural yoga practised today.
 
-### Contemporary scholars
+- **B.K.S. Iyengar** (1918–2014) was Krishnamacharya's brother-in-law and a sickly,
+  much-pushed pupil who turned that hard training into the most precise system in
+  yoga. **Iyengar Yoga** is alignment raised to an art — held postures, exact
+  geometry, and the now-ubiquitous belts, blocks and bolsters he pioneered as **props**
+  to make the practice available to every kind of body. His *Light on Yoga* (1966)
+  became the global handbook; he is arguably the single greatest popularizer the
+  tradition has known.
+- **K. Pattabhi Jois** (1915–2009) took the flowing side of his teacher's method and
+  fixed it into set, breath-linked series — the demanding **Ashtanga Vinyasa** practice
+  from which nearly all modern "vinyasa" and "flow" yoga descends, codified in his *Yoga
+  Mala* (1962). It must also be said plainly, because it is part of the record: multiple
+  women have reported that Jois sexually assaulted female students during hands-on
+  "adjustments," accounts supported by photographic and video evidence; in 2018 his
+  grandson and successor R. Sharath Jois publicly apologised for the harm done.
+- **T.K.V. Desikachar** (1938–2016), Krishnamacharya's own son, inherited the gentlest
+  reading of his father's teaching. Through the Krishnamacharya Yoga Mandiram in
+  Chennai he developed **Viniyoga** — yoga fitted to the person rather than the person
+  forced to the posture — an individualised, therapeutic approach captured in *The Heart
+  of Yoga* (1995).
+- **Indra Devi** (1899–2002), born Eugenie Peterson in Riga, talked her way past
+  Krishnamacharya's resistance to become the first Western woman he taught at Mysore.
+  Crowned the **"First Lady of Yoga,"** she went on to teach Hollywood stars, then
+  carried the practice into the Soviet Union and across Latin America — a one-woman
+  proof that this Mysore experiment could cross any border.
 
-| Figure | Affiliation | Principal works | Contribution |
-|---|---|---|---|
-| **Mark Singleton** | Senior Research Fellow, SOAS — Haṭha Yoga Project | *Yoga Body: The Origins of Modern Posture Practice* (2010) | Argued that modern posture yoga is, in large part, a 20th-c. break from haṭha tradition, blending it with Western physical culture → [[Modern-Styles]]. |
-| **James Mallinson** | Indologist, SOAS — Haṭha Yoga Project (with Singleton & Jason Birch) | *Roots of Yoga* (2017, co-ed. with Singleton) | Critical translations of 100+ premodern yoga texts; reframed scholarly understanding of yoga's actual textual history → [[History-and-Origins]]. |
+> **A note on missing faces.** You will notice this section has no portraits. The
+> familiar photographs of Krishnamacharya, Iyengar, Pattabhi Jois, Desikachar and Indra
+> Devi are 20th-century images still under copyright (or without a verified free
+> licence), so none are embedded here — the same constraint applies to the other modern
+> figures and the contemporary scholars below.
+
+The branches of this tree are mapped in full under [[Modern-Styles]].
+
+---
+
+## Other notable moderns
+
+Around the Krishnamacharya tree stood other figures who shaped what yoga became in the
+20th century — for good and, in two cases, very much for ill.
+
+**Swami Kuvalayananda** (1883–1966) put yoga on the laboratory bench. At
+**Kaivalyadhama**, the institute he founded at Lonavla in 1924, he used X-rays,
+blood-pressure cuffs and physiological measurement to study what āsana and kriyā
+actually do to the body, publishing his findings in the journal *Yoga Mīmāṃsā* from
+1924 onward — an early, earnest bridge between an ancient discipline and modern science.
+
+**Swami Satyananda Saraswati** (1923–2009), a disciple of Sivananda, founded the
+**Bihar School of Yoga** in 1963 and built it into one of the most complete teaching
+systems of the era. His most lasting gift is **Yoga Nidrā**, the guided "yogic sleep"
+that has since travelled far beyond yoga into therapy and stress medicine.
+
+Two further figures belong here, and honesty requires that their abuses sit beside
+their influence rather than be tucked away. **Yogi Bhajan** (1929–2004), born Harbhajan
+Singh Khalsa, brought **Kuṇḍalinī Yoga** to the West and built around it the large 3HO
+organisation and business network from 1969. In 2020 an independent investigation, the
+*An Olive Branch* report, concluded that allegations of sexual and spiritual abuse by
+him "more likely than not" occurred. **Bikram Choudhury** (b. 1944) popularised heated
+studio yoga through his trademarked **26-posture sequence** and franchised it
+aggressively across the world; from 2013 onward he faced multiple sexual-assault and
+harassment lawsuits, lost multimillion-dollar judgments (some $6.8 m in 2016 and $7 m
+in 2017), and became the subject of an arrest warrant after he left the United States.
+
+---
+
+## The scholars re-reading the story
+
+The most recent figures in this gallery never founded a school or invented a posture.
+They went back to the texts — and changed how everyone else understands the whole arc.
+
+For most of the 20th century, the assumed story was simple: today's posture practice
+was the unbroken survival of an ancient haṭha tradition. **Mark Singleton**, a senior
+research fellow at SOAS, dismantled that comfortable picture in *Yoga Body: The Origins
+of Modern Posture Practice* (2010), showing how much of modern āsana is in fact a
+20th-century creation — haṭha braided together with Western physical culture,
+gymnastics and the international "harmonial" fitness movements of the early 1900s. It is
+the indispensable counterweight to every studio's founding myth (see
+[[Modern-Styles]]).
+
+Working alongside him, the Indologist **James Mallinson** went to the primary sources.
+Through the **Haṭha Yoga Project** at SOAS — Mallinson, Singleton and Jason Birch — and
+above all in *Roots of Yoga* (2017, co-edited with Singleton), he produced critical
+translations of more than a hundred premodern yoga texts, replacing inherited
+assumptions with what the manuscripts actually say. Between them, these scholars have
+given yoga back its real and far stranger textual history, the subject of
+[[History-and-Origins]]. The compiler at the start of this page is shadowy in part
+because people like Mallinson have been careful enough to admit how much we still don't
+know.
 
 ---
 

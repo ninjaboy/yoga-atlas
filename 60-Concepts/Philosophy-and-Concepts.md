@@ -6,34 +6,30 @@ generated: 2026-06-22
 
 # 🪷 Philosophy & Core Concepts
 
-Classical yoga is built on **Sāṃkhya** metaphysics and organised by Patañjali's
-**eight limbs** (*Yoga Sūtras*, c. 2nd–4th c. CE). Later **Tantra** and **Vedānta**
-reframe the goal and add the subtle-body map (koshas, chakras, nāḍīs). This note
-runs from ethics outward to absorption, then from gross body inward to the witness.
+Strip away the mats and the studios, and yoga is asking a single, audacious question: *why do we suffer, and can it end?* Its answer is stranger and bolder than "relax more." Classical yoga claims that you are not your anxious, churning mind at all — you are the silent awareness *watching* it — and that the whole point of practice is to stop confusing the two. The name for that freedom is **kaivalya**: a clean, final release in which consciousness, having spent a lifetime mistaking the movie for the watcher, finally sits back in its seat. Everything else in this note — the ethics, the breath, the chakras, the dizzying inventory of reality — is scaffolding raised around that one liberating recognition.
 
-> [!note] How the pieces fit
-> Sāṃkhya supplies the **map of reality** (puruṣa vs. prakṛti). Patañjali supplies
-> the **method** (the eight limbs, ending in samādhi). Tantra/Vedānta supply
-> alternative **goals** (union / non-duality rather than isolation).
+The scaffolding comes from three great sources, and it helps to know who supplies what before we climb it. **Sāṃkhya** hands yoga its *map of reality* — the stark division between the watcher (*puruṣa*) and everything watched (*prakṛti*). **Patañjali**, in the *Yoga Sūtras* (c. 2nd–4th c. CE), hands it a *method* — eight practical limbs that carry a person from ordinary distraction all the way to absorption. And later **Tantra** and **Vedānta** re-imagine the *destination* itself, trading isolation for union, and adding the luminous inner geography of subtle bodies, chakras and channels. This note follows that arc: outward from ethics toward absorption, then inward from the gross body toward the witness who was there all along. (For the texts beneath it all, see [[Foundational-Texts]]; for the long historical swing between these schools, [[History-and-Origins]].)
 
-## The eight limbs (aṣṭāṅga)
+## The eight limbs (aṣṭāṅga) — a journey in stages
 
-Patañjali's ladder from outer conduct to inner absorption ([Ashtanga — Wikipedia](https://en.wikipedia.org/wiki/Ashtanga_(eight_limbs_of_yoga))). The first five are **bahiraṅga** ("outer" limbs, preparing body and senses); the last three are **antaraṅga** ("inner" limbs) and together form **saṃyama** — the combined instrument of insight:
+Patañjali was, above all, a practical man. He did not expect anyone to leap straight into the silent depths; he built a **ladder**, eight rungs from outer conduct to inner absorption, and insisted you climb it rather than skip it ([Ashtanga — Wikipedia](https://en.wikipedia.org/wiki/Ashtanga_(eight_limbs_of_yoga))). The first five rungs are **bahiraṅga**, the "outer" limbs — they quiet the noise of an unruly life and an unruly body so that something subtler can be heard. The last three are **antaraṅga**, the "inner" limbs, and they are really one continuous act of attention deepening on itself, which Patañjali bundles together under a single name, *saṃyama* — the combined instrument of insight. Read the list less as a checklist than as a story of a mind gradually turning toward home:
 
-1. **Yama** — ethical restraints (how we relate to the world)
-2. **Niyama** — observances (how we relate to ourselves)
-3. **Āsana** — posture; for Patañjali, *sthira-sukham* — "steady and comfortable" — a seat held effortlessly, not a gymnastic shape
-4. **Prāṇāyāma** — regulation of breath / vital energy
-5. **Pratyāhāra** — withdrawal of the senses from their objects
-6. **Dhāraṇā** — concentration: "binding consciousness to a single place," one-pointed effort
-7. **Dhyāna** — meditation: an *uninterrupted flow* toward that one point; awareness without strain
-8. **Samādhi** — absorption, in which the meditator, the act of meditating, and the object collapse into one
+1. **Yama** — ethical restraints: how we relate to the world. The journey begins not in the body but in conduct, because a person at war with others can never be at peace alone.
+2. **Niyama** — observances: how we relate to ourselves. Once the outer life is in order, attention turns inward to one's own discipline and devotion.
+3. **Āsana** — posture. For Patañjali this is no gymnastic feat but *sthira-sukham* — "steady and comfortable" — a seat so effortless the body stops clamouring for attention (the athletic posture-craft most people now call yoga is a later flowering; see [[Practices]]).
+4. **Prāṇāyāma** — the regulation of breath, and through it the vital energy that breath carries. Steady the breath and the mind, its restless twin, begins to steady too.
+5. **Pratyāhāra** — withdrawal of the senses from their objects: the turning point of the whole climb, where awareness stops leaking outward through the eyes and ears and folds back on itself.
+6. **Dhāraṇā** — concentration: "binding consciousness to a single place," the first one-pointed effort, still a little forced.
+7. **Dhyāna** — meditation: that effort ripening into an *uninterrupted flow* toward the single point, awareness now without strain.
+8. **Samādhi** — absorption, the summit, in which the meditator, the act of meditating, and the object of meditation collapse into one. There is no longer anyone "doing" yoga; there is only the doing.
 
 > [!quote] *Yoga Sūtra* 2.29 — the eight limbs, verbatim
 > *yama-niyamāsana-prāṇāyāma-pratyāhāra-dhāraṇā-dhyāna-samādhayo'ṣṭāv aṅgāni*
 > — "Yama, Niyama, Âsana, Prânâyâma, Pratyâhâra, Dhârâna, Dhyâna, and Samâdhi
 > are the steps in Raja-Yoga."
 > — Swami Vivekananda, *Rāja-Yoga* (1896), [Patañjali's Yoga Aphorisms II.29 — Wikisource](https://en.wikisource.org/wiki/The_Complete_Works_of_Swami_Vivekananda/Volume_1/Raja-Yoga/Raja-Yoga_In_Brief) *(public domain)*
+
+Seen as a whole, the climb looks like this — the outer five preparing the ground, the inner three flowing together as a single deepening attention:
 
 ```mermaid
 graph LR
@@ -52,9 +48,9 @@ graph LR
 > and, in the *Vibhūti Pāda*, the source of the famous yogic powers (*siddhis*),
 > which Patañjali then warns are obstacles to the final goal.
 
-### The yamas & niyamas
+### The yamas & niyamas — the ground floor
 
-The ethical floor of the whole edifice. Patañjali calls the yamas the "great vow" (*mahāvrata*), binding regardless of birth, place, time or circumstance ([Yoga Sutras — Wikipedia](https://en.wikipedia.org/wiki/Yoga_Sutras_of_Patanjali)):
+It is tempting to rush past the first two limbs to get to the "real" yoga of breath and silence, but Patañjali will not let us. The yamas and niyamas are the ethical floor on which the whole edifice stands; he calls the yamas the *mahāvrata*, the "great vow," binding regardless of birth, place, time or circumstance — no exemptions, no special cases ([Yoga Sutras — Wikipedia](https://en.wikipedia.org/wiki/Yoga_Sutras_of_Patanjali)). The logic is quietly ruthless: a mind tangled in cruelty, dishonesty or grasping will never grow quiet enough to meditate. Clean up the life, and the inner work becomes possible. The restraints (*yamas*) point outward, at how we treat the world; the observances (*niyamas*) point inward, at how we tend ourselves:
 
 | Yamas (restraints — outward) | Niyamas (observances — inward) |
 |---|---|
@@ -71,30 +67,31 @@ The ethical floor of the whole edifice. Patañjali calls the yamas the "great vo
 
 ## The five kleśas — what binds us
 
-Before liberation can be discussed, Patañjali names the **afflictions** that drive
-suffering and keep consciousness entangled (*Yoga Sūtra* 2.3 — [The Yoga Institute](https://theyogainstitute.org/5-kleshas-root-causes-of-suffering-in-life)). *Avidyā* is the field in which the other four grow:
+But before we can talk sensibly about freedom, we have to be honest about what holds us captive. Patañjali is unsentimental here: he names five **afflictions**, the *kleśas*, the deep tendencies that manufacture suffering and keep consciousness snared in the mind it watches (*Yoga Sūtra* 2.3 — [The Yoga Institute](https://theyogainstitute.org/5-kleshas-root-causes-of-suffering-in-life)). They are not five separate problems so much as one problem and its four offspring: the first, *avidyā*, is the soil in which the other four take root.
 
-1. **Avidyā** — fundamental *ignorance*; mistaking the impermanent for the permanent, the not-self for the Self. The root of the rest.
-2. **Asmitā** — *egoism*; identifying pure awareness with the instrument that perceives (the mind/intellect).
-3. **Rāga** — *attachment*; clinging to pleasure and its sources.
-4. **Dveṣa** — *aversion*; recoil from pain, manifesting as anger, anxiety, hatred.
-5. **Abhiniveśa** — *clinging to life / fear of death*; said to grip even the wise.
+1. **Avidyā** — fundamental *ignorance*: mistaking the impermanent for the permanent, the not-self for the Self. This is the original error, and every other affliction grows from it.
+2. **Asmitā** — *egoism*: the precise misstep of confusing pure awareness with the instrument that perceives, taking "I think" to mean "I *am* this thinking."
+3. **Rāga** — *attachment*: the pull toward pleasure and the things that gave it.
+4. **Dveṣa** — *aversion*: the recoil from pain, surfacing as anger, anxiety, hatred.
+5. **Abhiniveśa** — the *clinging to life*, the animal fear of death said to grip even the wise.
 
-Yoga's practices (especially *kriyā-yoga*: tapas, svādhyāya, īśvara-praṇidhāna) progressively thin the kleśas until discriminative knowledge can dissolve them.
+Notice the symmetry: ignorance breeds a false self, the false self then reaches for pleasure and shoves away pain, and the whole apparatus white-knuckles its own survival. Yoga does not amputate these — it *thins* them. The disciplines of *kriyā-yoga* (tapas, svādhyāya, īśvara-praṇidhāna — the very niyamas above) gradually wear the afflictions down until the clear seeing of liberation can dissolve what remains.
 
-## Sāṃkhya metaphysics — the frame
+## Sāṃkhya metaphysics — the great drama of two
 
-Yoga inherits Sāṃkhya's **dualism**: two irreducible realities ([Samkhya — Wikipedia](https://en.wikipedia.org/wiki/Samkhya)).
+To understand why ignorance is so catastrophic — and why freedom is even possible — we have to step back into the worldview Patañjali inherited from **Sāṃkhya**, one of the oldest and most rigorous systems of Indian thought. Its vision is a kind of cosmic drama with only two characters, and the entire human predicament turns on their being mistaken for each other ([Samkhya — Wikipedia](https://en.wikipedia.org/wiki/Samkhya)).
 
-- **Puruṣa** — pure, attribute-less **consciousness**; the witness. Uncaused, unchanging, plural, never an effect of anything.
-- **Prakṛti** — unconscious **primordial nature/matter**, uncaused but the cause of everything else. Mind and world unfold *from* prakṛti — including the intellect itself.
-- **The three guṇas** — the strands of prakṛti whose shifting balance shapes all phenomena:
-  **sattva** (clarity/harmony/light), **rajas** (activity/passion/motion), **tamas** (inertia/dullness/mass).
-  ([Yoga International: the gunas](https://yogainternational.com/article/view/the-gunas-natures-three-fundamental-forces/))
+The first character is **puruṣa** — pure, attribute-less **consciousness**, the witness. It does nothing, wants nothing, changes nothing; it simply *sees*. It is uncaused, unchanging, plural (each of us has our own), and never the effect of anything. Think of it as light: it illuminates without itself being touched by what it lights.
 
-### The 25 tattvas (puruṣa + 24 evolutes of prakṛti)
+The second is **prakṛti** — **primordial nature**, the entire seething field of matter and energy. Here is the twist that surprises every newcomer: prakṛti is *unconscious*, yet it is the source of everything we usually call "mind." Thought, emotion, intellect, the very sense of "I" — all of it unfolds *from* prakṛti, not from puruṣa. The watcher is silent and aware but inert; the watched is active and intricate but blind.
 
-Sāṃkhya counts reality in **25 tattvas** ("principles"): puruṣa, unmanifest prakṛti, and the **23 evolutes** that unfold when the guṇas lose equilibrium ([24 Tattvas — Hindu Website](https://www.hinduwebsite.com/24principles.asp); [25 Tattvas — Poojn](https://www.poojn.in/post/31559/understanding-the-25-tattvas-in-samkhya-a-clear-explanation)). The cascade is *inner → outer*:
+The engine driving prakṛti's endless transformations is a trio of strands, the **three guṇas**, whose shifting balance colours every phenomenon in existence — **sattva** (clarity, harmony, light), **rajas** (activity, passion, motion), and **tamas** (inertia, dullness, mass) ([Yoga International: the gunas](https://yogainternational.com/article/view/the-gunas-natures-three-fundamental-forces/)). When the three rest in equilibrium, nothing manifests; when their balance tips, the whole pageant of the world spins out.
+
+And here is the tragedy at the heart of the system. Pure consciousness, gazing into the most refined, mirror-like layer of prakṛti — the intellect — sees its own reflection there and forgets it is only a reflection. *That* is the primal confusion the kleśas described: the light mistaking itself for the lamp. The mind suffers, and consciousness, identified with the mind, believes it is suffering too — though in truth it was only ever watching.
+
+### The 25 tattvas — how the one becomes the many
+
+Sāṃkhya is nothing if not thorough. It does not just assert that mind unfolds from matter; it *itemises* the unfolding, counting reality in **25 tattvas** ("principles"): puruṣa, unmanifest prakṛti, and the **23 evolutes** that cascade out when the guṇas lose their equilibrium ([24 Tattvas — Hindu Website](https://www.hinduwebsite.com/24principles.asp); [25 Tattvas — Poojn](https://www.poojn.in/post/31559/understanding-the-25-tattvas-in-samkhya-a-clear-explanation)). What makes the list worth lingering on is its direction of travel: it runs *inward to outward*, intellect first and gross matter last — the opposite of the modern materialist instinct. Mind is not built up from atoms here; the world of atoms precipitates *out of* a primordial intelligence.
 
 | # | Tattva(s) | What it is |
 |---|---|---|
@@ -108,18 +105,22 @@ Sāṃkhya counts reality in **25 tattvas** ("principles"): puruṣa, unmanifest
 | 16–20 | **Tanmātras** | five subtle elements (sound, touch, form, taste, smell) |
 | 21–25 | **Mahābhūtas** | five gross elements (ether, air, fire, water, earth) |
 
-Mahat, ahaṃkāra and the tanmātras are *both* causes and effects; the gross elements are effects only; puruṣa and prakṛti are neither caused. Liberation is **not** destroying this machinery but *seeing through* it.
+Read the table as a genealogy of experience. The middle players — *mahat*, *ahaṃkāra* and the *tanmātras* — are both causes and effects, each begotten and begetting; the gross elements are effects only, the dead-ends of the cascade; and puruṣa and prakṛti alone stand outside the chain, uncaused. The crucial, freeing point is this: liberation does not mean smashing any of this machinery. The world is not an illusion to be destroyed. Freedom is simply *seeing through* the apparatus — recognising that the watcher was never one of its parts.
 
-### The goal — *kaivalya*
+### The goal — *kaivalya*, the great unmistaking
 
-In classical Yoga/Sāṃkhya the aim is **kaivalya** — "aloneness, isolation": the decisive **discernment** (*viveka*) that puruṣa is utterly *separate* from prakṛti, so that pure consciousness no longer mistakes the mind's movements for itself ([Samkhya — Wikipedia](https://en.wikipedia.org/wiki/Samkhya)). The witness simply *stops identifying* with what it watches. Note the polarity to come: here liberation is **separation**; in Tantra/Vedānta it becomes **union**.
+Which brings us back to where we began. If suffering is consciousness mistaking itself for the mind, then freedom is the unmistaking — and Sāṃkhya gives it a precise and slightly austere name: **kaivalya**, "aloneness," "isolation." It is the decisive flash of **discernment** (*viveka*) in which puruṣa sees, finally and irreversibly, that it is utterly *separate* from prakṛti, and so stops taking the mind's restless weather for its own ([Samkhya — Wikipedia](https://en.wikipedia.org/wiki/Samkhya)). Nothing is annihilated; the witness simply stops *identifying* with what it watches, and in that letting-go is wholly free.
 
-### The stages of samādhi
+It is worth pausing on the strangeness of the word. Liberation here is *separation* — standing apart, alone, unentangled. Hold that in mind, because when we reach Tantra and Vedānta the very same destination will be renamed its opposite — **union** — and that single reversal turns out to be the deepest fault-line in the whole tradition.
 
-Samādhi is not one state but a graded ascent ([Stages of Samadhi — VedicFeed](https://vedicfeed.com/stages-of-samadhi/); [Raja Yoga Samadhi — Divine Life Society](https://www.dlshq.org/discourse/raja-yoga-samadhi/)):
+### The stages of samādhi — the ascent into silence
+
+But how does a person actually *arrive* at that seeing? Not in one leap. The eighth limb, samādhi, is itself a graded ascent — absorption that grows quieter and emptier by stages until even its own object falls away ([Stages of Samadhi — VedicFeed](https://vedicfeed.com/stages-of-samadhi/); [Raja Yoga Samadhi — Divine Life Society](https://www.dlshq.org/discourse/raja-yoga-samadhi/)):
 
 - **Samprajñāta** ("with cognition") — absorption that still has an **object/seed** (*sabīja*). The mind rests on something, refining through grosser-to-subtler supports (*vitarka → vicāra → ānanda → asmitā*). Often equated with **savikalpa** ("with distinction"): a trace of knower/known remains — "Thou and I are One."
-- **Asamprajñāta** ("without cognition") — **seedless** (*nirbīja*) absorption; even the subtle object dissolves and all mental modifications (*vṛttis*) cease. Equated with **nirvikalpa** ("without distinction"): no remaining split between knower, knowing and known. From here ripens **kaivalya**.
+- **Asamprajñāta** ("without cognition") — **seedless** (*nirbīja*) absorption; even the subtle object dissolves and all mental modifications (*vṛttis*) finally cease. Equated with **nirvikalpa** ("without distinction"): no remaining split at all between knower, knowing and known. From this stillness — the mind grown utterly transparent — **kaivalya** ripens. The watcher is at last alone with itself.
+
+The two stages sit side by side like this:
 
 | | Samprajñāta / Savikalpa | Asamprajñāta / Nirvikalpa |
 |---|---|---|
@@ -130,6 +131,8 @@ Samādhi is not one state but a graded ascent ([Stages of Samadhi — VedicFeed]
 
 ## The subtle body — koshas, bodies & chakras
 
+Patañjali's path is austere, almost monochrome: a lone witness disentangling itself from nature. But the later tradition could not leave the body so empty. Where did all that absorption *happen*? What were the practitioners actually feeling as energy rose, breath stilled, and attention sank inward? Out of those reported experiences grew one of yoga's most vivid contributions — a detailed inner cartography of bodies within the body, wheels of energy along the spine, and rivers of vital force. Before we step into it, one honest caution, because this is exactly where yoga is most often misread:
+
 > [!warning] ⚠️ Read this map as symbolic / experiential
 > The chakras, nāḍīs and koshas are a **contemplative and energetic cartography**,
 > not anatomy. They do not correspond to nerves, glands or organs, and modern
@@ -137,14 +140,14 @@ Samādhi is not one state but a graded ascent ([Stages of Samadhi — VedicFeed]
 > not findings. Treat the whole subtle-body model as a *phenomenology of inner
 > experience* — a language for what practitioners report — rather than biomedical fact.
 
-This layer comes mainly from **Tantra** and **Vedānta** (see [[Practices]] for the energetic mechanics).
+With that held firmly in mind, the map becomes not a pseudo-science but a beautiful and surprisingly precise language for the inner life — and it comes mainly from **Tantra** and **Vedānta** (for how this geography is actually *worked* in practice, see [[Practices]]). For centuries practitioners drew it as lovingly as European anatomists drew the body, as in this figure:
 
 ![Sapta Chakra — a seated yogin with the seven chakras and subtle channels, from a 1899 Yoga manuscript in Braj Bhāṣā](https://upload.wikimedia.org/wikipedia/commons/f/fb/Sapta_Chakra%2C_1899.jpg)
 *"Sapta Chakra," from a Yoga manuscript in Braj Bhāṣā, 1899 (British Library). Via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sapta_Chakra,_1899.jpg). **Public domain** (faithful reproduction of a 2-D work whose copyright has expired). ⚠️ A symbolic cartography, not anatomy.*
 
 ### Three bodies (śarīra-traya) & five koshas
 
-Vedānta nests the human being in **three bodies**, which map onto the **five sheaths** (*pañca-kosha*) — gross → subtle → causal ([Three Bodies — Prana Sutra](https://www.prana-sutra.com/post/sthula-sukshma-karana-sharira); [Sharira Traya — Dharmawiki](https://dharmawiki.org/index.php/Sharira_Traya_(%E0%A4%B6%E0%A4%B0%E0%A5%80%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AF%E0%A4%AE%E0%A5%8D))):
+Vedānta's picture of the self is like an onion, or a set of nested Russian dolls. The being you call "you" is wrapped in **three bodies** — gross, subtle and causal — which in turn correspond to **five sheaths** (*pañca-kosha*), each more refined than the last, each a layer closer to the silent core ([Three Bodies — Prana Sutra](https://www.prana-sutra.com/post/sthula-sukshma-karana-sharira); [Sharira Traya — Dharmawiki](https://dharmawiki.org/index.php/Sharira_Traya_(%E0%A4%B6%E0%A4%B0%E0%A5%80%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AF%E0%A4%AE%E0%A5%8D))):
 
 | Body (śarīra) | Contains kosha(s) | "Sheath of…" |
 |---|---|---|
@@ -154,11 +157,11 @@ Vedānta nests the human being in **three bodies**, which map onto the **five sh
 | | Vijñānamaya | wisdom / discernment |
 | **Kāraṇa** (causal) ⚠️ | Ānandamaya | bliss; nearest the Self |
 
-The koshas are *layers wrapped over* the Self; in Vedānta the practitioner peels inward (*neti, neti* — "not this, not this") until only the witness remains. The causal body is the seed of the other two and the last to fall away.
+The point of the scheme is that none of these sheaths is the Self — they are all *coverings* over it. So the contemplative works inward by subtraction, the famous *neti, neti*, "not this, not this": I am not this food-built body, not this breath, not these thoughts, not even this discerning wisdom or this bliss — peeling away each layer until only the witness is left, unwrapped. The causal body, subtlest and deepest, is the seed of the other two and the very last to fall away. (You may notice the family resemblance to Sāṃkhya's witness shedding prakṛti; the destinations differ, but the gesture of *disidentification* is the same.)
 
-### The chakras
+### The chakras — wheels along the central channel
 
-Seven principal energy-centres (*cakra*, "wheel") strung along the **suṣumnā** within the subtle body — said to be *roused* by **kuṇḍalinī** rising from the base toward the crown ([Chakra names — Kathleen Karlsen](https://kathleenkarlsen.com/chakra-names/); [7 Chakras Chart — Arogya](https://www.arogyayogaschool.com/blog/7-chakras-chart/)). ⚠️ The "locations" below are **felt/symbolic** loci along the spinal axis, not organs:
+Within that subtle body runs the most celebrated feature of the inner map: seven principal **chakras** (*cakra*, "wheel"), spinning energy-centres threaded like beads along the central channel, the **suṣumnā**. They are said to lie dormant until **kuṇḍalinī** — a coiled, latent energy at the base of the spine, often imagined as a sleeping serpent — awakens and rises through them toward the crown, rousing each in turn ([Chakra names — Kathleen Karlsen](https://kathleenkarlsen.com/chakra-names/); [7 Chakras Chart — Arogya](https://www.arogyayogaschool.com/blog/7-chakras-chart/)). Each wheel carries its own meaning, element and seed-sound (*bīja*). ⚠️ Remember the caution above: the "locations" are **felt, symbolic** loci along the spinal axis — a geography of inner experience, not a chart of organs.
 
 | Chakra | Meaning | Location (symbolic) | Element | Bīja |
 |---|---|---|---|---|
@@ -170,13 +173,13 @@ Seven principal energy-centres (*cakra*, "wheel") strung along the **suṣumnā*
 | **Ājñā** (third eye) | "command / perceive" | between the eyebrows | mind/light | OṂ |
 | **Sahasrāra** (crown) | "thousand-petalled" | crown of the head | beyond elements | (silent / AḤ) |
 
-### The three principal nāḍīs
+### The three principal nāḍīs — the rivers that feed the wheels
 
-Of the thousands of *nāḍīs* ("channels") that carry **prāṇa** through the subtle body, three are central ([The Three Nadis — Fitsri](https://www.fitsri.com/yoga/nadis); [Subtle channels — Ekhart Yoga](https://www.ekhartyoga.com/articles/practice/subtle-energy-channels-kundalini-sushumna-ida-pingala)). ⚠️ These are experiential currents, not the physical spinal cord or autonomic nerves they are sometimes likened to:
+If the chakras are stations, the **nāḍīs** are the rivers between them — thousands of "channels" through which **prāṇa**, the vital current, flows. Of all of them three matter most, and their interplay is the quiet drama behind every breathing practice ([The Three Nadis — Fitsri](https://www.fitsri.com/yoga/nadis); [Subtle channels — Ekhart Yoga](https://www.ekhartyoga.com/articles/practice/subtle-energy-channels-kundalini-sushumna-ida-pingala)). ⚠️ Once more: these are experiential currents, not the physical spinal cord or autonomic nerves they are sometimes loosely compared to.
 
-- **Iḍā** — the left, "lunar," cooling/receptive current; associated with the parasympathetic, mind-quieting quality.
-- **Piṅgalā** — the right, "solar," warming/active current; associated with energising, outward drive.
-- **Suṣumnā** — the **central** channel along the spinal axis. Only when iḍā and piṅgalā are **balanced** does suṣumnā open, letting kuṇḍalinī ascend through the chakras toward sahasrāra.
+- **Iḍā** — the left-hand, "lunar" channel: cooling, receptive, mind-quieting.
+- **Piṅgalā** — the right-hand, "solar" channel: warming, active, the energising outward drive.
+- **Suṣumnā** — the **central** channel running up the spinal axis, and the one that matters most. It stays shut while the lunar and solar currents pull a person between calm and agitation; only when iḍā and piṅgalā come into **balance** does suṣumnā open — and through that opened middle road kuṇḍalinī can finally ascend, chakra by chakra, toward the thousand-petalled crown.
 
 ![Manuscript painting of a meditating yogin showing the chakras as discs along the central channel](https://upload.wikimedia.org/wikipedia/commons/d/d4/Yogin_in_meditation_chakras_kundalini_snake.jpg)
 *A meditating yogin with the chakras strung along the central channel; manuscript painting (pre-1931), Wellcome Collection. Via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Yogin_in_meditation_chakras_kundalini_snake.jpg). **Public domain** (original work + faithful reproduction). ⚠️ Felt/symbolic loci, not organs.*
@@ -194,11 +197,11 @@ Of the thousands of *nāḍīs* ("channels") that carry **prāṇa** through the
 
 ## Three goals, three reframings
 
-The same practice points at different destinations depending on the school ([Reconciling Samkhya, Vedanta & Tantra — Auromere](https://auromere.wordpress.com/2012/09/28/reconciling-samkhya-vedanta-and-tantra/); [Nondualism — Wikipedia](https://en.wikipedia.org/wiki/Nondualism)):
+We can now close the circle we opened. The same eight-limbed practice, the same map of bodies and channels, can point at strikingly different destinations depending on who is walking the path — and the differences are not quibbles but three distinct visions of what freedom even *is* ([Reconciling Samkhya, Vedanta & Tantra — Auromere](https://auromere.wordpress.com/2012/09/28/reconciling-samkhya-vedanta-and-tantra/); [Nondualism — Wikipedia](https://en.wikipedia.org/wiki/Nondualism)):
 
-- **Classical Yoga / Sāṃkhya** — **kaivalya**: *isolation*. Spirit and matter are ultimately two; liberation is disentangling puruṣa from prakṛti and abiding alone.
-- **Vedānta (esp. Advaita)** — **mokṣa as non-duality**: *Ātman = Brahman*. There is no real second thing to be isolated from; "union" is the *recognition* that the individual self was never separate from the absolute.
-- **Tantra** — **embodied union**: spirit (Śiva) and energy (Śakti) are two faces of one reality. Rather than escaping the body and world, the practitioner *transforms* them — kuṇḍalinī uniting Śakti with Śiva at the crown. Liberation **in** the body, not from it.
+- **Classical Yoga / Sāṃkhya** seeks **kaivalya**, *isolation*. Spirit and matter are ultimately two, forever; liberation is the clean disentangling of puruṣa from prakṛti, the witness abiding serenely alone. This is the vision the whole note has followed.
+- **Vedānta** (above all Advaita) seeks **mokṣa as non-duality**, captured in three words: *Ātman = Brahman*. Here there is no second thing to be isolated *from*. The "union" is not an achievement but a *recognition* — that the individual self was never, even for an instant, separate from the absolute. The separation was the illusion all along.
+- **Tantra** seeks **embodied union**. Spirit (Śiva) and energy (Śakti) are not enemies to be parted but two faces of one reality. So rather than fleeing the body and the world, the tantric practitioner *transfigures* them — kuṇḍalinī rising to wed Śakti to Śiva at the crown. Liberation is found not by escaping the body but right inside it.
 
 > [!tip] One word, two directions
 > "Yoga" can mean **separation** (Sāṃkhya: severing puruṣa from prakṛti) *or*
