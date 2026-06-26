@@ -80,19 +80,20 @@ def render_body(text, stem_href):
         holder = f"<p>MERMAIDBLOCK{i}</p>"
         body = body.replace(holder, f'<pre class="mermaid">{html.escape(raw)}</pre>')
 
-    # 4) an embedded image followed by an italic caption = a figure. Two layouts:
-    #    (a) same paragraph: <p><img> <em>caption</em></p>  (no blank line in md)
-    #    (b) two paragraphs: <p><img></p> <p><em>caption</em></p>
-    body = re.sub(
-        r'<p>(<img[^>]+?/?>)\s*<em>(.*?)</em></p>',
-        r'<figure>\1<figcaption>\2</figcaption></figure>',
-        body, flags=re.DOTALL)
-    body = re.sub(
-        r'<p>(<img[^>]+?/?>)</p>\s*<p><em>(.*?)</em></p>',
-        r'<figure>\1<figcaption>\2</figcaption></figure>',
-        body, flags=re.DOTALL)
-    # bare image (no caption) → still a centred figure
-    body = re.sub(r'<p>(<img[^>]+?/?>)</p>', r'<figure>\1</figure>', body)
+    # 4) any paragraph that STARTS with an embedded image → a <figure>, with the
+    #    rest of the paragraph as the <figcaption> (our images are always
+    #    paragraph-leading, optionally followed by an italic source/licence line).
+    def _fig(m):
+        img = m.group(1)
+        cap = m.group(2).strip()
+        # drop the markdown emphasis wrapper around the caption if present
+        cap = re.sub(r'^<em>(.*)</em>$', r'\1', cap, flags=re.DOTALL).strip()
+        caphtml = f'<figcaption>{cap}</figcaption>' if cap else ''
+        return f'<figure>{img}{caphtml}</figure>'
+    # two-paragraph form first (img alone, caption in next <p>)
+    body = re.sub(r'<p>(<img[^>]+?/?>)</p>\s*<p>(.*?)</p>', _fig, body, flags=re.DOTALL)
+    # same-paragraph form (img then caption text in the same <p>)
+    body = re.sub(r'<p>(<img[^>]+?/?>)\s*(.*?)</p>', _fig, body, flags=re.DOTALL)
 
     return body, getattr(md, "toc", "")
 
