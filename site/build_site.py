@@ -70,53 +70,139 @@ def render_body(text, stem_href):
         return label
     text = WIKILINK.sub(_link, text)
 
-    body = markdown.markdown(
-        text, extensions=["tables", "fenced_code", "toc", "attr_list", "sane_lists"])
+    md = markdown.Markdown(extensions=["tables", "fenced_code", "attr_list",
+                                       "sane_lists", "toc"],
+                           extension_configs={"toc": {"toc_depth": "2-2"}})
+    body = md.convert(text)
 
     # 3) reinsert mermaid as raw <pre class="mermaid">
     for i, raw in enumerate(blocks):
         holder = f"<p>MERMAIDBLOCK{i}</p>"
         body = body.replace(holder, f'<pre class="mermaid">{html.escape(raw)}</pre>')
-    return body
+
+    # 4) an embedded image followed by an italic caption = a figure. Two layouts:
+    #    (a) same paragraph: <p><img> <em>caption</em></p>  (no blank line in md)
+    #    (b) two paragraphs: <p><img></p> <p><em>caption</em></p>
+    body = re.sub(
+        r'<p>(<img[^>]+?/?>)\s*<em>(.*?)</em></p>',
+        r'<figure>\1<figcaption>\2</figcaption></figure>',
+        body, flags=re.DOTALL)
+    body = re.sub(
+        r'<p>(<img[^>]+?/?>)</p>\s*<p><em>(.*?)</em></p>',
+        r'<figure>\1<figcaption>\2</figcaption></figure>',
+        body, flags=re.DOTALL)
+    # bare image (no caption) → still a centred figure
+    body = re.sub(r'<p>(<img[^>]+?/?>)</p>', r'<figure>\1</figure>', body)
+
+    return body, getattr(md, "toc", "")
 
 
 TEMPLATE = """<!doctype html>
 <html lang="en"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{title} · Yoga Atlas</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Inter:wght@400;500;600&family=Spectral:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
 <style>
- :root{{--bg:#14141b;--panel:#1c1c26;--ink:#e8e6f0;--muted:#9a97ad;--accent:#caa75d;--line:#2c2c3a}}
- *{{box-sizing:border-box}} body{{margin:0;background:var(--bg);color:var(--ink);
-   font:16px/1.65 -apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif}}
+ :root{{
+   --bg:#15131a;--panel:#1b1922;--ink:#ece8f1;--soft:#cfc9da;--muted:#9b95ab;
+   --accent:#d8b86a;--accent2:#b98a5e;--line:#2b2834;--quote:#1f1b16;
+   --serif:'Spectral',Georgia,serif; --display:'Cormorant Garamond',Georgia,serif;
+   --sans:'Inter',-apple-system,Segoe UI,Roboto,sans-serif;
+ }}
+ *{{box-sizing:border-box}}
+ html{{scroll-behavior:smooth}}
+ body{{margin:0;background:var(--bg);color:var(--ink);font:17px/1.72 var(--serif)}}
  .wrap{{display:flex;min-height:100vh}}
- nav{{width:270px;flex:0 0 270px;background:var(--panel);border-right:1px solid var(--line);
-   padding:22px 18px;position:sticky;top:0;height:100vh;overflow:auto}}
- nav h1{{font-size:18px;margin:0 0 4px}} nav .sub{{color:var(--muted);font-size:12px;margin-bottom:18px}}
- nav .grp{{color:var(--accent);font-size:11px;letter-spacing:.08em;text-transform:uppercase;margin:16px 0 6px}}
- nav a{{display:block;color:var(--ink);text-decoration:none;padding:4px 8px;border-radius:6px;font-size:14px}}
- nav a:hover{{background:#262633}} nav a.active{{background:#2f2a1f;color:var(--accent)}}
- main{{flex:1;max-width:860px;margin:0 auto;padding:42px 40px 90px}}
- main h1{{border-bottom:1px solid var(--line);padding-bottom:.3em}}
- a{{color:var(--accent)}} code{{background:#262633;padding:.1em .35em;border-radius:4px}}
- main img{{max-width:100%;height:auto;border-radius:8px;margin:.6em 0;background:#fff}}
- main img[src*="upload.wikimedia"],main img[src*="FilePath"]{{max-height:520px;width:auto}}
- em{{color:var(--muted)}}
- pre{{background:#11111a;border:1px solid var(--line);padding:14px;border-radius:8px;overflow:auto}}
- pre.mermaid{{background:#f6f4ee;color:#222;text-align:center}}
- table{{border-collapse:collapse;width:100%;margin:1em 0}}
- th,td{{border:1px solid var(--line);padding:7px 10px;text-align:left;vertical-align:top}}
- th{{background:#23232f}} blockquote{{border-left:3px solid var(--accent);margin:1em 0;
-   padding:.2em 1em;background:#1e1c17;color:#d8d2c2}}
- .foot{{color:var(--muted);font-size:12px;margin-top:48px;border-top:1px solid var(--line);padding-top:14px}}
+ /* --- sidebar --- */
+ nav{{width:280px;flex:0 0 280px;background:var(--panel);border-right:1px solid var(--line);
+   padding:26px 20px;position:sticky;top:0;height:100vh;overflow:auto;font-family:var(--sans)}}
+ nav .brand{{font-family:var(--display);font-size:27px;font-weight:700;margin:0 0 2px;color:var(--ink)}}
+ nav .brand a{{color:inherit;text-decoration:none}}
+ nav .sub{{color:var(--muted);font-size:12px;letter-spacing:.04em;margin-bottom:22px}}
+ nav .grp{{color:var(--accent);font-size:10.5px;font-weight:600;letter-spacing:.12em;
+   text-transform:uppercase;margin:18px 0 5px}}
+ nav a.lnk{{display:block;color:var(--soft);text-decoration:none;padding:5px 10px;border-radius:7px;font-size:14px}}
+ nav a.lnk:hover{{background:#262330;color:var(--ink)}}
+ nav a.active{{background:linear-gradient(90deg,#2f2818,#241f17);color:var(--accent);font-weight:500}}
+ /* --- content --- */
+ main{{flex:1;max-width:1080px;margin:0 auto;padding:0 46px 110px;display:flex;gap:40px}}
+ .article{{flex:1;min-width:0;max-width:760px;margin:0 auto;padding-top:40px}}
+ h1,h2,h3,h4{{font-family:var(--display);font-weight:600;line-height:1.2;color:var(--ink)}}
+ .article h1{{font-size:2.7rem;margin:.2em 0 .5em;font-weight:700;letter-spacing:.01em}}
+ .article h2{{font-size:1.75rem;margin:1.9em 0 .5em;padding-top:.4em;border-top:1px solid var(--line)}}
+ .article h3{{font-size:1.32rem;margin:1.4em 0 .4em;color:var(--soft)}}
+ .article h4{{font-size:1.08rem;color:var(--accent2);margin:1.2em 0 .3em}}
+ p{{margin:.8em 0}}
+ a{{color:var(--accent);text-decoration-color:rgba(216,184,106,.4);text-underline-offset:2px}}
+ a:hover{{text-decoration-color:var(--accent)}}
+ code{{background:#262330;padding:.12em .4em;border-radius:4px;font-size:.88em;font-family:var(--sans)}}
+ strong{{color:#fff;font-weight:600}}
+ em{{color:var(--soft)}}
+ ul,ol{{padding-left:1.3em}} li{{margin:.25em 0}}
+ hr{{border:none;border-top:1px solid var(--line);margin:2.2em 0}}
+ /* --- figures --- */
+ figure{{margin:1.6em 0;text-align:center}}
+ figure img{{max-width:100%;height:auto;max-height:560px;width:auto;border-radius:10px;
+   background:#faf8f3;box-shadow:0 6px 26px rgba(0,0,0,.4);border:1px solid #00000040}}
+ figcaption{{font-family:var(--sans);font-size:12.5px;color:var(--muted);line-height:1.5;
+   margin-top:.6em;max-width:620px;margin-left:auto;margin-right:auto}}
+ figcaption a{{color:var(--accent2)}}
+ /* --- quotes (canonical citations) --- */
+ blockquote{{border:none;margin:1.4em 0;padding:1em 1.3em;background:var(--quote);
+   border-left:3px solid var(--accent);border-radius:0 8px 8px 0;color:#e7ddca;
+   font-style:italic;font-size:1.06em}}
+ blockquote p{{margin:.3em 0}}
+ blockquote em{{color:#cbb98f}}
+ /* --- tables --- */
+ table{{border-collapse:collapse;width:100%;margin:1.3em 0;font-size:.93em;font-family:var(--sans)}}
+ th,td{{border:1px solid var(--line);padding:8px 11px;text-align:left;vertical-align:top}}
+ th{{background:#221f2b;color:var(--accent);font-weight:600}}
+ tr:nth-child(even) td{{background:#1a1822}}
+ /* --- code / mermaid --- */
+ pre{{background:#100f17;border:1px solid var(--line);padding:14px;border-radius:8px;overflow:auto}}
+ pre.mermaid{{background:#f6f3ec;color:#222;text-align:center;border:none}}
+ /* --- on-this-page TOC --- */
+ .toc{{flex:0 0 200px;font-family:var(--sans);font-size:13px;position:sticky;top:0;
+   align-self:flex-start;padding-top:54px;max-height:100vh;overflow:auto}}
+ .toc .ttl{{color:var(--accent);font-size:10.5px;font-weight:600;letter-spacing:.12em;
+   text-transform:uppercase;margin-bottom:8px}}
+ .toc ul{{list-style:none;padding:0;margin:0;border-left:1px solid var(--line)}}
+ .toc li{{margin:0}}
+ .toc a{{display:block;color:var(--muted);text-decoration:none;padding:3px 0 3px 12px;
+   margin-left:-1px;border-left:2px solid transparent;line-height:1.35}}
+ .toc a:hover{{color:var(--ink);border-left-color:var(--accent2)}}
+ /* --- hero (home) --- */
+ .hero{{margin:18px 0 30px;padding:38px 34px;border-radius:14px;
+   background:radial-gradient(120% 140% at 0% 0%,#26201a 0%,#1a1822 55%);
+   border:1px solid var(--line)}}
+ .hero h1{{font-size:3.2rem;margin:.1em 0;border:none}}
+ .hero .tag{{font-family:var(--sans);color:var(--soft);font-size:15px;max-width:560px}}
+ .hero .chips{{margin-top:14px}}
+ .hero .chip{{display:inline-block;font-family:var(--sans);font-size:11.5px;color:var(--accent);
+   border:1px solid var(--accent2);border-radius:20px;padding:3px 11px;margin:3px 6px 0 0}}
+ .foot{{color:var(--muted);font-size:12px;font-family:var(--sans);margin-top:60px;
+   border-top:1px solid var(--line);padding-top:16px}}
+ @media(max-width:960px){{
+   nav{{display:none}} main{{padding:0 20px 70px;flex-direction:column}}
+   .toc{{display:none}} .article{{padding-top:24px}}
+   .article h1{{font-size:2.1rem}} .hero h1{{font-size:2.3rem}}
+ }}
 </style></head><body><div class="wrap">
-<nav><h1>🧘 Yoga Atlas</h1><div class="sub">sourced · open-licence</div>
+<nav>
+<div class="brand"><a href="Overview.html">🧘 Yoga Atlas</a></div>
+<div class="sub">a sourced, open-licence vault</div>
 {nav}
-<div class="grp">Repo</div>
-<a href="https://github.com/ninjaboy/yoga-atlas">GitHub ↗</a>
+<div class="grp">Project</div>
+<a class="lnk" href="https://github.com/ninjaboy/yoga-atlas">GitHub repository ↗</a>
 </nav>
-<main>{body}
-<div class="foot">Yoga Atlas — a sourced, open-licence knowledge vault. Generated from the
-Obsidian vault; contested and modern claims are flagged in-text.</div>
+<main>
+<article class="article">{hero}{body}
+<div class="foot">Yoga Atlas — a sourced, open-licence knowledge vault. Every image is
+Public-Domain / Creative-Commons with attribution; contested and modern claims are
+flagged in-text. Generated from the Obsidian source.</div>
+</article>
+{toc}
 </main></div>
 <script type="module">
 import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
@@ -132,6 +218,15 @@ def build():
     (DOCS / ".nojekyll").write_text("")           # serve our HTML as-is
 
     home_stem = "Overview"
+    HERO = (
+        '<div class="hero"><h1>🧘 Yoga Atlas</h1>'
+        '<div class="tag">A sourced, open-licence knowledge vault on yoga — its history, '
+        'traditions, texts, figures, asanas, practices and philosophy — illustrated only with '
+        'Public-Domain &amp; Creative-Commons media and grounded in the canonical texts.</div>'
+        '<div class="chips"><span class="chip">10 articles</span>'
+        '<span class="chip">canonical quotes</span><span class="chip">open-licence images</span>'
+        '<span class="chip">cited throughout</span></div></div>'
+    )
     for stem, title, folder, md in pages:
         # nav with the current page marked active
         nav = []
@@ -141,10 +236,16 @@ def build():
                 continue
             nav.append(f'<div class="grp">{html.escape(label)}</div>')
             for s2, t2, _, _ in items:
-                cls = " class=\"active\"" if s2 == stem else ""
-                nav.append(f'<a href="{s2}.html"{cls}>{html.escape(t2)}</a>')
-        body = render_body(md.read_text(), stem_href)
-        page = TEMPLATE.format(title=html.escape(title), nav="\n".join(nav), body=body)
+                cls = "lnk active" if s2 == stem else "lnk"
+                nav.append(f'<a class="{cls}" href="{s2}.html">{html.escape(t2)}</a>')
+        body, toc_html = render_body(md.read_text(), stem_href)
+        # on-this-page TOC (skip if too few headings)
+        toc = ""
+        if toc_html and toc_html.count("<li") >= 3:
+            toc = f'<aside class="toc"><div class="ttl">On this page</div>{toc_html}</aside>'
+        hero = HERO if stem == home_stem else ""
+        page = TEMPLATE.format(title=html.escape(title), nav="\n".join(nav),
+                               body=body, toc=toc, hero=hero)
         (DOCS / f"{stem}.html").write_text(page)
         if stem == home_stem:
             (DOCS / "index.html").write_text(page)
