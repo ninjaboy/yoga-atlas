@@ -98,6 +98,9 @@ TEMPLATE = """<!doctype html>
  main{{flex:1;max-width:860px;margin:0 auto;padding:42px 40px 90px}}
  main h1{{border-bottom:1px solid var(--line);padding-bottom:.3em}}
  a{{color:var(--accent)}} code{{background:#262633;padding:.1em .35em;border-radius:4px}}
+ main img{{max-width:100%;height:auto;border-radius:8px;margin:.6em 0;background:#fff}}
+ main img[src*="upload.wikimedia"],main img[src*="FilePath"]{{max-height:520px;width:auto}}
+ em{{color:var(--muted)}}
  pre{{background:#11111a;border:1px solid var(--line);padding:14px;border-radius:8px;overflow:auto}}
  pre.mermaid{{background:#f6f4ee;color:#222;text-align:center}}
  table{{border-collapse:collapse;width:100%;margin:1em 0}}

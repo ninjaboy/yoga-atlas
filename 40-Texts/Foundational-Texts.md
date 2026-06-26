@@ -114,6 +114,61 @@ a contrast with Patañjali's *aṣṭāṅga* that is worth noting on [[Practice
   elaborate pre-20th-c. visual āsana text; a direct influence on Krishnamacharya's
   Mysore school → images catalogued in [[Open-Media]].
 
+### Manuscript plates (open-licence)
+
+A Persian Mughal āsana from the *Bahr al-ḥayāt*, a Mysore-palace posture from the
+*Śrītattvanidhi*, and a folio of the *Yoga Sūtras* themselves — all public-domain
+manuscript images:
+
+![Kukkuṭāsana (cockerel pose) from the Bahr al-ḥayāt, c. 1602](https://commons.wikimedia.org/wiki/Special:FilePath/Kukkutasana_in_Bahr_al-hayat_16.10.jpg)
+*Source: Muḥammad Ghawth Gwāliyārī, *Bahr al-ḥayāt*, c. 1602, Chester Beatty Library, Dublin (CBL In 16.10). Public domain (published before 1931) — via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kukkutasana_in_Bahr_al-hayat_16.10.jpg).*
+
+![Uttāna Kūrmāsana (stretched-tortoise pose) from the Śrītattvanidhi](https://commons.wikimedia.org/wiki/Special:FilePath/Uttana_Kurmasana_from_Sritattvanidhi.jpg)
+*Source: *Śrītattvanidhi*, attrib. Mahārāja Mummaḍi Kṛṣṇarāja Woḍeyar III of Mysore (1794–1868), 19th c.; scan from N. E. Sjoman, *The Yoga Tradition of the Mysore Palace*. Public domain (author d. 1868) — via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Uttana_Kurmasana_from_Sritattvanidhi.jpg).*
+
+![A manuscript folio of the Pātañjala Yogasūtra](https://commons.wikimedia.org/wiki/Special:FilePath/Patanjali_Yoga_Sutras_manuscript.jpg)
+*Source: *Yoga Sūtras of Patañjali*, pre-1900 manuscript, National Library of India, Rare Books Division (Th 217). Public domain (CC Public Domain Mark 1.0; published before 1931) — via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Patanjali_Yoga_Sutras_manuscript.jpg).*
+
+## Read the texts in full (open / public-domain)
+
+Verified, free, full-text translations — primary reading links for this vault
+(more catalogued in [[Open-Media]]):
+
+- **Yoga Sūtras of Patañjali** — Charles Johnston transl. (1912), on Wikisource:
+  [Book I](https://en.wikisource.org/wiki/Yoga_Sutras/Book_I) ·
+  [Book II](https://en.wikisource.org/wiki/Yoga_Sutras/Book_II) ·
+  [whole work](https://en.wikisource.org/wiki/The_Yoga_Sutras_of_Patanjali). PD.
+- **Yoga Sūtras + Vyāsa's *Bhāṣya* + Vācaspati Miśra's gloss** — Rāma Prasāda transl.,
+  full scan on [Archive.org](https://archive.org/details/PatanjalisYogaSutraswithTheCommentaryOfVyasaAndTheGlossOfVachaspatiMisraRamaPrasadTranslation). PD.
+- **Haṭha Yoga Pradīpikā** — Pancham Sinh transl. (1914):
+  hypertext on [sacred-texts.com (/hin/hyp/)](https://sacred-texts.com/hin/hyp/index.htm) ·
+  Sanskrit + English scan on [Archive.org](https://archive.org/details/HathaYogaPradipika-SanskritTextWithEnglishTranslatlionAndNotes) ·
+  [Wikisource Ch. 1 (Āsanas)](https://en.wikisource.org/wiki/Hatha_Yoga_Pradipika/1). PD.
+- **Gheraṇḍa Saṃhitā** — Rai Bahadur Srisa Chandra Vasu transl. (1914/15),
+  full Sanskrit + English scan on [Archive.org](https://archive.org/details/Gheranda_Samhita). PD.
+- **Śiva Saṃhitā** — Rai Bahadur Srisa Chandra Vasu transl. (1914),
+  full English scan on [Archive.org](https://archive.org/details/YogaShivaSamhita_201903). PD.
+
+## Key verses (verbatim)
+
+A handful of load-bearing verses, quoted exactly, with source links.
+
+> *yogaś citta-vṛtti-nirodhaḥ* — **YS 1.2**
+> "Union, spiritual consciousness, is gained through control of the versatile psychic nature."
+> — Charles Johnston (1912), [Wikisource, Book I](https://en.wikisource.org/wiki/Yoga_Sutras/Book_I). This is *the* definition: yoga as the stilling of the mind's fluctuations ([[Philosophy-and-Concepts]]).
+
+> *sthira-sukham āsanam* — **YS 2.46**
+> "Right poise must be firm and without strain."
+> — Charles Johnston (1912), [Wikisource, Book II](https://en.wikisource.org/wiki/Yoga_Sutras/Book_II). Patañjali's *entire* teaching on āsana — a steady, easeful seat, not a posture-system ([[Practices]]).
+
+> **HYP 1.1** (salutation)
+> "Salutation to Âdinātha (Siva) who expounded the knowledge of Hatha Yoga, which like a staircase leads the aspirant to the high pinnacled Rāja Yoga."
+> — Pancham Sinh (1914), [Wikisource, Ch. 1](https://en.wikisource.org/wiki/Hatha_Yoga_Pradipika/1). Haṭha framed from the first line as a *means to* Rāja yoga, not an end.
+
+> **HYP 1.17** (āsana, the first accessory)
+> "Being the first accessory of Hatha Yoga, āsana is described first. It should be practiced for gaining steady posture, health and lightness of body."
+> — Pancham Sinh (1914), [Wikisource, Ch. 1](https://en.wikisource.org/wiki/Hatha_Yoga_Pradipika/1). Note the *body-first* ordering — āsana opens the manual ([[Paths-and-Lineages]]).
+
 ## Influential modern books
 - **Vivekānanda — *Rāja Yoga*** (1896): re-read the Yoga Sūtras for a modern Western
   audience and largely defined "meditation = yoga" in the West.
@@ -142,7 +197,9 @@ a contrast with Patañjali's *aṣṭāṅga* that is worth noting on [[Practice
 - [Hatha Yoga Pradipika — Pancham Sinh transl. (1914), sacred-texts.com (PD)](https://sacred-texts.com/hin/hyp/index.htm)
 - [Hatha Yoga Pradipika — Sanskrit + English, Pancham Singh, Archive.org (PD)](https://archive.org/details/HathaYogaPradipika-SanskritTextWithEnglishTranslatlionAndNotes)
 - [Gheranda Samhita — Wikipedia](https://en.wikipedia.org/wiki/Gheranda_Samhita)
+- [Gheraṇḍa Saṃhitā — Srisa Chandra Vasu transl., Archive.org (PD)](https://archive.org/details/Gheranda_Samhita)
 - [Shiva Samhita — Wikipedia](https://en.wikipedia.org/wiki/Shiva_Samhita)
+- [Śiva Saṃhitā — Srisa Chandra Vasu transl., Archive.org (PD)](https://archive.org/details/YogaShivaSamhita_201903)
 - [Goraksha Shataka — overview](https://grokipedia.com/page/Goraksha_Shataka) · [Gorakhnath — Wikipedia](https://en.wikipedia.org/wiki/Gorakhnath)
 - [Amritasiddhi — Wikipedia](https://en.wikipedia.org/wiki/Amritasiddhi)
 - [The Amṛtasiddhi & Amṛtasiddhimūla, earliest haṭha texts — Mallinson & Szántó (2021), introduction PDF (Academia.edu)](https://www.academia.edu/69343500/)
@@ -151,3 +208,6 @@ a contrast with Patañjali's *aṣṭāṅga* that is worth noting on [[Practice
 
 **Visual / image sources**
 - [Hatha Yoga images from the Joga Pradīpikā — Public Domain Review](https://publicdomainreview.org/collection/hatha-yoga-images-from-the-joga-pradipika)
+- [Kukkutāsana, Bahr al-ḥayāt (c. 1602, Chester Beatty Library) — Wikimedia Commons (PD)](https://commons.wikimedia.org/wiki/File:Kukkutasana_in_Bahr_al-hayat_16.10.jpg)
+- [Uttāna Kūrmāsana, Śrītattvanidhi (19th c., Mysore palace) — Wikimedia Commons (PD)](https://commons.wikimedia.org/wiki/File:Uttana_Kurmasana_from_Sritattvanidhi.jpg)
+- [Pātañjala Yogasūtra manuscript folio (pre-1900, National Library of India) — Wikimedia Commons (PD)](https://commons.wikimedia.org/wiki/File:Patanjali_Yoga_Sutras_manuscript.jpg)

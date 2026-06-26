@@ -29,6 +29,12 @@ Patañjali's ladder from outer conduct to inner absorption ([Ashtanga — Wikipe
 7. **Dhyāna** — meditation: an *uninterrupted flow* toward that one point; awareness without strain
 8. **Samādhi** — absorption, in which the meditator, the act of meditating, and the object collapse into one
 
+> [!quote] *Yoga Sūtra* 2.29 — the eight limbs, verbatim
+> *yama-niyamāsana-prāṇāyāma-pratyāhāra-dhāraṇā-dhyāna-samādhayo'ṣṭāv aṅgāni*
+> — "Yama, Niyama, Âsana, Prânâyâma, Pratyâhâra, Dhârâna, Dhyâna, and Samâdhi
+> are the steps in Raja-Yoga."
+> — Swami Vivekananda, *Rāja-Yoga* (1896), [Patañjali's Yoga Aphorisms II.29 — Wikisource](https://en.wikisource.org/wiki/The_Complete_Works_of_Swami_Vivekananda/Volume_1/Raja-Yoga/Raja-Yoga_In_Brief) *(public domain)*
+
 ```mermaid
 graph LR
     Y["Yama"] --> N["Niyama"] --> A["Āsana"] --> P["Prāṇāyāma"] --> PR["Pratyāhāra"] --> DH["Dhāraṇā"] --> DHY["Dhyāna"] --> S["Samādhi"]
@@ -133,6 +139,9 @@ Samādhi is not one state but a graded ascent ([Stages of Samadhi — VedicFeed]
 
 This layer comes mainly from **Tantra** and **Vedānta** (see [[Practices]] for the energetic mechanics).
 
+![Sapta Chakra — a seated yogin with the seven chakras and subtle channels, from a 1899 Yoga manuscript in Braj Bhāṣā](https://upload.wikimedia.org/wikipedia/commons/f/fb/Sapta_Chakra%2C_1899.jpg)
+*"Sapta Chakra," from a Yoga manuscript in Braj Bhāṣā, 1899 (British Library). Via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sapta_Chakra,_1899.jpg). **Public domain** (faithful reproduction of a 2-D work whose copyright has expired). ⚠️ A symbolic cartography, not anatomy.*
+
 ### Three bodies (śarīra-traya) & five koshas
 
 Vedānta nests the human being in **three bodies**, which map onto the **five sheaths** (*pañca-kosha*) — gross → subtle → causal ([Three Bodies — Prana Sutra](https://www.prana-sutra.com/post/sthula-sukshma-karana-sharira); [Sharira Traya — Dharmawiki](https://dharmawiki.org/index.php/Sharira_Traya_(%E0%A4%B6%E0%A4%B0%E0%A5%80%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AF%E0%A4%AE%E0%A5%8D))):
@@ -168,6 +177,15 @@ Of the thousands of *nāḍīs* ("channels") that carry **prāṇa** through the
 - **Iḍā** — the left, "lunar," cooling/receptive current; associated with the parasympathetic, mind-quieting quality.
 - **Piṅgalā** — the right, "solar," warming/active current; associated with energising, outward drive.
 - **Suṣumnā** — the **central** channel along the spinal axis. Only when iḍā and piṅgalā are **balanced** does suṣumnā open, letting kuṇḍalinī ascend through the chakras toward sahasrāra.
+
+![Manuscript painting of a meditating yogin showing the chakras as discs along the central channel](https://upload.wikimedia.org/wikipedia/commons/d/d4/Yogin_in_meditation_chakras_kundalini_snake.jpg)
+*A meditating yogin with the chakras strung along the central channel; manuscript painting (pre-1931), Wellcome Collection. Via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Yogin_in_meditation_chakras_kundalini_snake.jpg). **Public domain** (original work + faithful reproduction). ⚠️ Felt/symbolic loci, not organs.*
+
+> [!quote] *Ṣaṭ-cakra-nirūpaṇa* v. 1 — suṣumnā between the moon and sun channels
+> "In the space outside the Meru, placed on the left and the right, are the two Sirās,
+> Sasi and Mihira [moon = **Iḍā**, sun = **Piṅgalā**]. The Nāḍī Suṣumnā, whose substance
+> is the threefold Guṇas, is in the middle."
+> — Pūrṇānanda's *Ṣaṭ-cakra-nirūpaṇa*, trans. Arthur Avalon (Sir John Woodroffe), *The Serpent Power* (1919), [full text — Internet Archive](https://archive.org/stream/TheSerpentPowerByArthurAvalon/The+Serpent+Power+by+Arthur+Avalon_djvu.txt) *(public domain; translation copyright expired)*
 
 > [!note] Koshas vs. chakras vs. nāḍīs
 > Easy to conflate, but: **koshas** = nested *layers* over the Self; **chakras** =
@@ -212,3 +230,9 @@ The same practice points at different destinations depending on the school ([Rec
 - [Subtle energy channels — Ekhart Yoga](https://www.ekhartyoga.com/articles/practice/subtle-energy-channels-kundalini-sushumna-ida-pingala)
 - [Reconciling Samkhya, Vedanta & Tantra — Auromere](https://auromere.wordpress.com/2012/09/28/reconciling-samkhya-vedanta-and-tantra/)
 - [Nondualism — Wikipedia](https://en.wikipedia.org/wiki/Nondualism)
+
+### Canonical texts & images (open-licence)
+- *Yoga Sūtra* 2.29 — Vivekananda, *Rāja-Yoga* (1896), public domain → [Wikisource](https://en.wikisource.org/wiki/The_Complete_Works_of_Swami_Vivekananda/Volume_1/Raja-Yoga/Raja-Yoga_In_Brief)
+- *Ṣaṭ-cakra-nirūpaṇa* v. 1 — Avalon, *The Serpent Power* (1919), public domain → [Internet Archive full text](https://archive.org/stream/TheSerpentPowerByArthurAvalon/The+Serpent+Power+by+Arthur+Avalon_djvu.txt)
+- Image: *Sapta Chakra, 1899* (British Library, Braj Bhāṣā Yoga manuscript) — public domain → [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sapta_Chakra,_1899.jpg)
+- Image: *Yogin in meditation* (Wellcome Collection manuscript painting) — public domain → [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Yogin_in_meditation_chakras_kundalini_snake.jpg)

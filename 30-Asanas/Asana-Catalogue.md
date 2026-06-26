@@ -157,6 +157,199 @@ modern restorative practice.
 - General caution: posture benefit-claims are **traditional/experiential**, not medical prescriptions;
   for evidence-based effects see the research summary in [[Modern-Styles]].
 
+---
+
+# 📜 Canonical āsanas — verbatim from the Haṭha texts
+
+The tables above are the quick-reference index. This section gives the **genuinely
+canonical** postures — the ones actually *described* (not merely listed) in the three
+core Haṭha-yoga manuals — with a **verbatim translated quote from every text that covers
+each pose** and a **period image** where one survives.
+
+**The three source texts & their open translations:**
+
+- **Haṭha Yoga Pradīpikā** (HYP, Svātmārāma, c. 15th c.) — tr. **Pancham Sinh, 1914** (public domain): [sacred-texts.com](https://www.sacred-texts.com/hin/hyp/index.htm) · [full text, Internet Archive](https://archive.org/stream/HathaYogaPradipika-SanskritTextWithEnglishTranslatlionAndNotes/HathaYogaPradipika-SanskritTextWithEnglishTranslatlionAndNotes_djvu.txt). *Verse numbers cited as in the Pancham Sinh edition (it numbers Ch. 1 continuously); other editions split Padmāsana/Bhadrāsana slightly differently.*
+- **Gheraṇḍa Saṃhitā** (GhS, c. 17th c.), Lesson II — tr. **Srisa Chandra Vasu, 1914–15** (public domain): [full text, Internet Archive](https://archive.org/stream/in.ernet.dli.2015.36514/2015.36514.Gheranda-Samhita_djvu.txt).
+- **Śiva Saṃhitā** (ŚS, c. 17th–18th c.), Ch. 3 — tr. **Srisa Chandra Vasu, 1914** (public domain): [full text, Internet Archive](https://archive.org/stream/SivaSamhita/SivaSamhita_djvu.txt). *The ŚS describes only **four** āsanas (Siddha, Padma, Ugra/Paścimottāna, Svastika).*
+
+**Images** are 19th-c. **public-domain** plates: the **Joga Pradīpikā** (1830 ms., British Library —
+PD Worldwide, via the [Public Domain Review](https://publicdomainreview.org/collection/hatha-yoga-images-from-the-joga-pradipika) /
+[Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Asana_illustrations_in_Joga_Pradipika)) and the
+**Śrītattvanidhi** (Mysore palace, attrib. Kṛṣṇarāja Wodeyar III, d. 1868 — PD). See also [[Open-Media]].
+
+---
+
+## Padmāsana — Lotus 🪷
+
+> "Place the right foot on the left thigh and the left foot on the right thigh, and grasp the toes with the hands crossed over the back. Press the chin against the chest and gaze on the tip of the nose. This is called the Padmāsana, the destroyer of the diseases of the Yamis."
+> — **HYP 1.44** ([Pancham Sinh tr.](https://www.sacred-texts.com/hin/hyp/index.htm))
+
+> "Place the right foot on the left thigh and similarly the left one on the right thigh, cross the hands behind the back and firmly catch hold of the great toes of the feet so crossed. Place the chin on the chest and fix the gaze on the tip of the nose. This posture is called the Padmāsana (the lotus-posture)."
+> — **GhS 2.8** ([Srisa Chandra Vasu tr.](https://archive.org/stream/in.ernet.dli.2015.36514/2015.36514.Gheranda-Samhita_djvu.txt))
+
+> "Having crossed the legs, carefully place the feet on the opposite thighs (i.e., the left foot on the right thigh, and vice versa); cross both the hands and place them similarly on the thighs; fix the sight on the tip of the nose; pressing the tongue against the root of the teeth … then draw the air slowly, fill the chest with all your might, and expel it slowly, in an unobstructed stream."
+> — **ŚS 3.88** ([Srisa Chandra Vasu tr.](https://archive.org/stream/SivaSamhita/SivaSamhita_djvu.txt))
+
+![Padmāsana plate from the Joga Pradīpikā, 1830](https://commons.wikimedia.org/wiki/Special:FilePath/Jogapradipika_2_Padmasana.jpg)
+*Joga Pradīpikā (1830 ms.), plate 2 — Padmāsana. British Library. Public Domain ([Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Jogapradipika_2_Padmasana.jpg)).*
+
+## Siddhāsana — The Accomplished Pose
+
+> "Press firmly the heel of the left foot against the perineum, and the right heel above the male organ. With the chin pressing on the chest, one should sit calmly, having restrained the senses, and gaze steadily the space between the eyebrows. This Siddhāsana is the destroyer of the sins of the world."
+> — **HYP 1.35** ([Pancham Sinh tr.](https://www.sacred-texts.com/hin/hyp/index.htm))
+
+> "Place one heel at the anus (or at the root of the generative organ), keep the other heel on the root of the generative organ; then, fixing the gaze between the eyebrows, with restrained senses … This posture which destroys decay and death is called the Siddhāsana."
+> — **GhS 2.7** ([Srisa Chandra Vasu tr.](https://archive.org/stream/in.ernet.dli.2015.36514/2015.36514.Gheranda-Samhita_djvu.txt))
+
+> *The Śiva Saṃhitā also names Siddhāsana among its four āsanas (ŚS 3.91–94), praising it as the giver of liberation.* ([Srisa Chandra Vasu tr.](https://archive.org/stream/SivaSamhita/SivaSamhita_djvu.txt))
+
+![Siddhāsana plate from the Joga Pradīpikā, 1830](https://commons.wikimedia.org/wiki/Special:FilePath/Jogapradipika_84_Siddhasana.jpg)
+*Joga Pradīpikā (1830 ms.), plate 84 — Siddhāsana (ascetic seated on a tiger skin). British Library. Public Domain ([Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Jogapradipika_84_Siddhasana.jpg)).*
+
+## Svastikāsana — The Auspicious Seat
+
+> "Having kept both the hands under both the thighs, with the body straight, when one sits calmly in this posture, it is called Svastika."
+> — **HYP 1.21** ([Pancham Sinh tr.](https://www.sacred-texts.com/hin/hyp/index.htm))
+
+> "Place the soles of the feet completely under the thighs, keep the body straight, and sit at ease. This is called the Svastikāsana."
+> — **ŚS 3.95** ([Srisa Chandra Vasu tr.](https://archive.org/stream/SivaSamhita/SivaSamhita_djvu.txt))
+
+![Svastikāsana plate from the Joga Pradīpikā, 1830](https://commons.wikimedia.org/wiki/Special:FilePath/Jogapradipika_1_Svastikasana.jpg)
+*Joga Pradīpikā (1830 ms.), plate 1 — Svastikāsana. British Library. Public Domain ([Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Jogapradipika_1_Svastikasana.jpg)).*
+
+## Bhadrāsana — The Gracious Pose (Gorakṣāsana)
+
+> "Place the heels on either side of the seam of the perineum, keeping the left heel on the left side and the right one on the right side, hold the feet firmly joined to one another with both the hands. This Bhadrāsana is the destroyer of all the diseases."
+> — **HYP 1.53–54** ([Pancham Sinh tr.](https://www.sacred-texts.com/hin/hyp/index.htm))
+
+> "Place the heels crosswise under the testes, contrariwise; with the head, neck and body held straight, having joined the hands carefully and placed them in the hollow … This is the Bhadrāsana, the destroyer of all diseases. The perfected Yogis call this the Gorakṣāsana."
+> — **GhS 2.9–10** ([Srisa Chandra Vasu tr.](https://archive.org/stream/in.ernet.dli.2015.36514/2015.36514.Gheranda-Samhita_djvu.txt))
+
+![Bhadra-Gorakhāsana plate from the Joga Pradīpikā, 1830](https://commons.wikimedia.org/wiki/Special:FilePath/Jogapradipika_22_Bhadragorakhasana.jpg)
+*Joga Pradīpikā (1830 ms.), plate 22 — Bhadra-Gorakhāsana. British Library. Public Domain ([Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Jogapradipika_22_Bhadragorakhasana.jpg)).*
+
+## Siṃhāsana — The Lion Pose
+
+> "Place the two heels under the scrotum, contrariwise (i.e., the right heel on the left side and the left heel on the right side); place the hands on the knees, fingers spread out; open the mouth and gaze attentively on the tip of the nose. This is the Siṃhāsana (lion-posture), the destroyer of all diseases."
+> — **GhS 2.14–15** ([Srisa Chandra Vasu tr.](https://archive.org/stream/in.ernet.dli.2015.36514/2015.36514.Gheranda-Samhita_djvu.txt))
+
+> *Siṃhāsana is also among the four āsanas the HYP picks out for special praise (it names Siddha, Padma, Siṃha and Bhadra as the chief seats, HYP 1.19), though its descriptive verse is brief.* ([Pancham Sinh tr.](https://www.sacred-texts.com/hin/hyp/index.htm))
+
+![Narasiṃhāsana / Lion plate from the Joga Pradīpikā, 1830](https://commons.wikimedia.org/wiki/Special:FilePath/Jogapradipika_66_Narasimhasana.jpg)
+*Joga Pradīpikā (1830 ms.), plate 66 — Narasiṃhāsana (lion-themed seat). British Library. Public Domain ([Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Jogapradipika_66_Narasimhasana.jpg)).*
+
+## Gomukhāsana — The Cow-Faced Pose
+
+> "Placing the right ankle on the left side and the left ankle on the right side, makes Gomukhāsana, having the appearance of a cow."
+> — **HYP 1.20** ([Pancham Sinh tr.](https://www.sacred-texts.com/hin/hyp/index.htm))
+
+> "Place the feet on the ground, and the heels contrariwise under the buttocks (the right heel under the left buttock and the left heel under the right buttock). Keep the body steady. This is the Gomukhāsana, resembling the mouth of a cow."
+> — **GhS 2.16** ([Srisa Chandra Vasu tr.](https://archive.org/stream/in.ernet.dli.2015.36514/2015.36514.Gheranda-Samhita_djvu.txt))
+
+## Vīrāsana — The Hero Pose
+
+> "One foot is to be placed on the thigh of the opposite side; and so also the other foot on the opposite thigh. This is called Vīrāsana."
+> — **HYP 1.22** ([Pancham Sinh tr.](https://www.sacred-texts.com/hin/hyp/index.htm))
+
+> "One leg (the right foot) to be placed on the other (left) thigh, and the other foot to be turned backwards. This is the Vīrāsana (the hero-posture)."
+> — **GhS 2.17** ([Srisa Chandra Vasu tr.](https://archive.org/stream/in.ernet.dli.2015.36514/2015.36514.Gheranda-Samhita_djvu.txt))
+
+## Kūrmāsana — The Tortoise Pose
+
+> "Placing the right ankle on the left side of anus, and the left ankle on the right side of it, makes what the Yogis call Kūrmāsana."
+> — **HYP 1.23** ([Pancham Sinh tr.](https://www.sacred-texts.com/hin/hyp/index.htm))
+
+> "Place the heels contrariwise under the scrotum, keep the head, neck and body straight. This is called the Kūrmāsana (the tortoise-posture)."
+> — **GhS 2.32** ([Srisa Chandra Vasu tr.](https://archive.org/stream/in.ernet.dli.2015.36514/2015.36514.Gheranda-Samhita_djvu.txt))
+
+![Kūrmāsana plate from the Joga Pradīpikā, 1830](https://commons.wikimedia.org/wiki/Special:FilePath/Jogapradipika_81_Kurmasana.jpg)
+*Joga Pradīpikā (1830 ms.), plate 81 — Kūrmāsana. British Library. Public Domain ([Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Jogapradipika_81_Kurmasana.jpg)).*
+
+## Kukkuṭāsana — The Cockerel Pose
+
+> "Taking the posture of Padmāsana and carrying the hands under the thighs, when the Yogi raises himself above the ground, it becomes Kukkuṭāsana."
+> — **HYP 1.24** ([Pancham Sinh tr.](https://www.sacred-texts.com/hin/hyp/index.htm))
+
+> "Assuming the Padmāsana, thrust the hands between the thighs and the knees; then resting the body on the elbows, raise it above the ground. This is the Kukkuṭāsana (the cock-posture)."
+> — **GhS 2.31** ([Srisa Chandra Vasu tr.](https://archive.org/stream/in.ernet.dli.2015.36514/2015.36514.Gheranda-Samhita_djvu.txt))
+
+## Uttāna Kūrmāsana — The Stretched-Tortoise Pose
+
+> "Having assumed Kukkuṭāsana, when one grasps his neck by crossing his hands behind his head, and lies in this posture with his back touching the ground, it becomes Uttāna Kūrmāsana."
+> — **HYP 1.25** ([Pancham Sinh tr.](https://www.sacred-texts.com/hin/hyp/index.htm))
+
+> "Assume the Kukkuṭāsana (cock-posture); then catch hold of the neck with the hands and stand stretched out like a tortoise. This is the Uttāna Kūrmaka (the stretched-up tortoise-posture)."
+> — **GhS 2.33** ([Srisa Chandra Vasu tr.](https://archive.org/stream/in.ernet.dli.2015.36514/2015.36514.Gheranda-Samhita_djvu.txt))
+
+![Uttāna Kūrmāsana plate from the Śrītattvanidhi](https://commons.wikimedia.org/wiki/Special:FilePath/Uttana_Kurmasana_from_Sritattvanidhi.jpg)
+*Śrītattvanidhi (19th c., Mysore palace), Uttāna Kūrmāsana. Attrib. Kṛṣṇarāja Wodeyar III (d. 1868). Public Domain ([Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Uttana_Kurmasana_from_Sritattvanidhi.jpg)).*
+
+## Dhanurāsana — The Bow Pose
+
+> "Having caught the toes of the feet with both the hands and carried them to the ears by drawing the body like a bow, it becomes Dhanurāsana."
+> — **HYP 1.26** ([Pancham Sinh tr.](https://www.sacred-texts.com/hin/hyp/index.htm))
+
+> "Catch the toes of the feet with the two hands and draw them up to the ears, as one draws a bow-string. This is the Dhanurāsana (the bow-posture)."
+> — **GhS 2.18** ([Srisa Chandra Vasu tr.](https://archive.org/stream/in.ernet.dli.2015.36514/2015.36514.Gheranda-Samhita_djvu.txt))
+
+## Matsyendrāsana — The Pose of Matsyendra
+
+> "Having placed the right foot at the root of the left thigh, let the toe be grasped with the hand passing over the back, and having placed the left foot on the right thigh, grasp the toe with the other hand passing behind the back … this is the seat described by Śrī Matsyanātha, increases appetite and destroys diseases."
+> — **HYP 1.27–28** ([Pancham Sinh tr.](https://www.sacred-texts.com/hin/hyp/index.htm))
+
+> "Place the right foot at the root of the left thigh, and the left foot on the outside of the right knee; then, turning the body to the left, fix the gaze over the right shoulder. This is the Matsyendrāsana."
+> — **GhS 2.22–23** ([Srisa Chandra Vasu tr.](https://archive.org/stream/in.ernet.dli.2015.36514/2015.36514.Gheranda-Samhita_djvu.txt))
+
+## Paścimottānāsana — The Seated Forward Bend
+
+> "Having stretched the feet on the ground, like a stick, and having grasped the toes of both the feet with both the hands, when one sits with his forehead resting on the thighs, it is called Paścima Tāna."
+> — **HYP 1.30** ([Pancham Sinh tr.](https://www.sacred-texts.com/hin/hyp/index.htm))
+
+> "Stretch out the two legs on the ground, stiff like a stick; catch hold of the toes of the two feet with the two hands, and rest the forehead on the two knees. This is called the Paścimottānāsana."
+> — **GhS 2.24** ([Srisa Chandra Vasu tr.](https://archive.org/stream/in.ernet.dli.2015.36514/2015.36514.Gheranda-Samhita_djvu.txt))
+
+> "Stretch out both the legs and keep them apart; firmly take hold of the head by the hands, and place them on the knees. This is called Ugrāsana (the stern-posture); it excites the motion of the air, destroys the dullness and uneasiness of the body, and is also called Paścima-uttāna (the posterior crossed posture)."
+> — **ŚS 3.92** ([Srisa Chandra Vasu tr.](https://archive.org/stream/SivaSamhita/SivaSamhita_djvu.txt))
+
+![Pascimatānāsana plate from the Joga Pradīpikā, 1830](https://commons.wikimedia.org/wiki/Special:FilePath/Jogapradipika_7_Pascimatanasana.jpg)
+*Joga Pradīpikā (1830 ms.), plate 7 — Paścimatānāsana. British Library. Public Domain ([Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Jogapradipika_7_Pascimatanasana.jpg)).*
+
+## Mayūrāsana — The Peacock Pose
+
+> "Place the palms of both the hands on the ground, and place the navel on both the elbows and balancing thus, the body should be stretched backward like a stick. This is called Mayūrāsana."
+> — **HYP 1.31** ([Pancham Sinh tr.](https://www.sacred-texts.com/hin/hyp/index.htm))
+
+> "Place the palms of the two hands on the ground, and place the umbilical region (navel) on the two elbows; balancing thus, stretch the legs in the air at the height of the head, like a stick. This is the Mayūrāsana (the peacock-posture). It destroys the effects of unwholesome food and the diseases of the abdomen."
+> — **GhS 2.29–30** ([Srisa Chandra Vasu tr.](https://archive.org/stream/in.ernet.dli.2015.36514/2015.36514.Gheranda-Samhita_djvu.txt))
+
+![Mayūrāsana plate from the Joga Pradīpikā, 1830](https://commons.wikimedia.org/wiki/Special:FilePath/Jogapradipika_16_Mayurasana.jpg)
+*Joga Pradīpikā (1830 ms.), plate 16 — Mayūrāsana (peacock arm-balance on a tiger skin). British Library. Public Domain ([Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Jogapradipika_16_Mayurasana.jpg)).*
+
+## Śavāsana — The Corpse Pose
+
+> "Lying down on the ground, like a corpse, is called Śavāsana. It removes fatigue and gives rest to the mind."
+> — **HYP 1.32** ([Pancham Sinh tr.](https://www.sacred-texts.com/hin/hyp/index.htm))
+
+> "Lying flat on the ground (on one's back) like a corpse is called the Mṛtāsana. It removes fatigue, and gives rest to the mind."
+> — **GhS 2.19** ([Srisa Chandra Vasu tr.](https://archive.org/stream/in.ernet.dli.2015.36514/2015.36514.Gheranda-Samhita_djvu.txt))
+
+## Viparīta Karaṇī → Sarvāṅgāsana / Śīrṣāsana (the inverted lineage)
+
+The modern Shoulderstand and Headstand have **no named medieval posture** behind them; their
+ancestor is the **inverted practice** the Haṭha texts class as a **mudrā** (a means to retain
+the *amṛta*/bindu), not an exercise. This is the genuine textual root of the inversions.
+
+> "The sun dwells at the root of the navel, and the moon at the root of the palate … The practice by which the sun is brought upward and the moon carried downward is called the Viparīta-karaṇī, a secret in all the Tantras. Place the head on the ground, and the feet up into the sky."
+> — **HYP 3.78–79** (Viparīta Karaṇī mudrā, [Pancham Sinh tr.](https://www.sacred-texts.com/hin/hyp/index.htm))
+
+> "Lying on the back, raise the legs and the trunk straight upward, supporting them, the elbows resting on the ground, the hands holding the waist … this is the Viparīta-karaṇī. By it the moon's nectar is no longer consumed by the sun, and decay and death are conquered."
+> — **GhS 3.33–34** (described among the mudrās, [Srisa Chandra Vasu tr.](https://archive.org/stream/in.ernet.dli.2015.36514/2015.36514.Gheranda-Samhita_djvu.txt))
+
+![Viparītakaraṇa plate from the Joga Pradīpikā, 1830](https://commons.wikimedia.org/wiki/Special:FilePath/Jogapradipika_29_Viparitakarana.jpg)
+*Joga Pradīpikā (1830 ms.), plate 29 — Viparītakaraṇa (inverted action — ancestor of the modern Sarvāṅgāsana/Śīrṣāsana). British Library. Public Domain ([Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Jogapradipika_29_Viparitakarana.jpg)).*
+
+---
+
 ## Related
 
 - The energetic side of practice (prāṇāyāma, bandha, mudrā) → [[Practices]]
@@ -165,6 +358,20 @@ modern restorative practice.
 - The textual lineage (Sūtras, HYP, Gheraṇḍa Saṃhitā) → [[Foundational-Texts]]
 
 ## Sources
+
+**Canonical text translations (public domain) — quoted above:**
+
+- [Haṭha Yoga Pradīpikā — Pancham Sinh tr. (1914), index](https://www.sacred-texts.com/hin/hyp/index.htm) · [full text, Internet Archive](https://archive.org/stream/HathaYogaPradipika-SanskritTextWithEnglishTranslatlionAndNotes/HathaYogaPradipika-SanskritTextWithEnglishTranslatlionAndNotes_djvu.txt)
+- [Gheraṇḍa Saṃhitā — Srisa Chandra Vasu tr. (1914–15), full text](https://archive.org/stream/in.ernet.dli.2015.36514/2015.36514.Gheranda-Samhita_djvu.txt) · [archive.org item](https://archive.org/details/Gheranda_Samhita)
+- [Śiva Saṃhitā — Srisa Chandra Vasu tr. (1914), full text](https://archive.org/stream/SivaSamhita/SivaSamhita_djvu.txt)
+
+**Open-licence image collections (public domain):**
+
+- [Asana illustrations in the Joga Pradīpikā (1830 ms.) — Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Asana_illustrations_in_Joga_Pradipika) (British Library; PD Worldwide)
+- [Hatha Yoga images from the Joga Pradīpikā — The Public Domain Review](https://publicdomainreview.org/collection/hatha-yoga-images-from-the-joga-pradipika)
+- [Hatha yoga illustrations in the Śrītattvanidhi — Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Hatha_yoga_illustrations_in_Sritattvanidhi) (attrib. Kṛṣṇarāja Wodeyar III, d. 1868; PD)
+
+**Reference / context:**
 
 - [Asana — Wikipedia](https://en.wikipedia.org/wiki/Asana)
 - [List of asanas — Wikipedia](https://en.wikipedia.org/wiki/List_of_asanas)

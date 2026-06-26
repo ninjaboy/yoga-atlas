@@ -50,6 +50,9 @@ The so-called **Paśupati seal** (Mohenjo-daro, c. 2350–2000 BCE), excavated u
 **John Marshall**, shows a horned figure sometimes read as a proto-Śiva seated in a
 "yogic" posture. The chain of inference is fragile:
 
+![The Paśupati seal (M-304) from Mohenjo-daro, c. 2350–2000 BCE: a horned figure seated among animals, read by some as a proto-Śiva in yogic posture.](https://upload.wikimedia.org/wikipedia/commons/2/2f/Shiva_Pashupati.jpg)
+*Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Shiva_Pashupati.jpg) — Public Domain (Public Domain Mark 1.0). Artefact in the National Museum, New Delhi.*
+
 | Claim | Status |
 |---|---|
 | Figure is seated cross-legged in *mūlabandhāsana* | ⚠️ posture not securely identifiable (Flood) |
@@ -69,11 +72,19 @@ use" for actual history. **Treat the Indus–yoga link as speculation, not evide
   - **Kaṭha Upaniṣad 2.3.10–11** gives an early *definition*: when the five senses,
     the mind (*manas*) and the intellect (*buddhi*) are stilled — "**That firm holding
     back of the senses is what is called yoga**" (*tāṃ yogam iti manyante sthirām
-    indriya-dhāraṇām*). Yoga here is **inner restraint**, not posture.
+    indriya-dhāraṇām*). Yoga here is **inner restraint**, not posture. Read the passage
+    in Max Müller's open translation:
+    [Kaṭha Upaniṣad, Sixth Vallī (Wikisource)](https://en.wikisource.org/wiki/Sacred_Books_of_the_East/Volume_15/Katha-upanishad).
   - **Śvetāśvatara Upaniṣad 2.8–2.9** (c. 400–200 BCE) is the oldest text to give
     practical bodily instruction: hold "the three upper parts" — *chest, neck and head*
     — erect, draw the senses inward "like a tortoise," and regulate the breath. This is
     seated meditative posture, the ancestor of **dhyānāsana**, not a posture repertoire.
+    The erect-posture passage is in Max Müller's open translation of the Śvetāśvatara
+    (Sacred Books of the East, vol. 15, p. 231 ff.):
+    [full PD scan on Internet Archive](https://archive.org/details/wg915).
+
+![A Sanskrit Upaniṣadic manuscript page — the Aitareya Upaniṣad of the Ṛgveda, Devānagarī script (1865 reproduction of a much older text).](https://upload.wikimedia.org/wikipedia/commons/f/f2/Aitareya_Upanishad%2C_Sanskrit%2C_Rigveda%2C_Devanagari_script%2C_1865_CE_manuscript.jpg)
+*Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Aitareya_Upanishad,_Sanskrit,_Rigveda,_Devanagari_script,_1865_CE_manuscript.jpg) — CC BY-SA 4.0 (photograph by Ms Sarah Welch; underlying text is public domain). Lalchand Research Library, DAV College, Chandigarh.*
   - The **Maitrāyaṇīya Upaniṣad** (later, but pre-Patañjali) already lists a **six-limbed
     yoga** (*ṣaḍ-aṅga*: breath control, sense-withdrawal, dhyāna, concentration, reasoning,
     union) — the scaffolding Patañjali later expands to eight.
@@ -117,6 +128,9 @@ c.), founders of the *Nātha Sampradāya*; in popular tradition almost all early
 texts are credited to these *siddhas*. Their early practice is sometimes called
 **laya-yoga**, "the yoga of dissolution," raising *kuṇḍalinī* through the channels.
 
+![An illustrated manuscript depiction of the Nāth siddha Gorakṣanāth (Gorakhnath) seated outside his hut, ink and gouache, c. 1715.](https://upload.wikimedia.org/wikipedia/commons/e/e6/Illustrated_manuscript_depiction_of_Gorakhnath_under_a_tree_outside_his_hut%2C_ca.1715.jpg)
+*Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Illustrated_manuscript_depiction_of_Gorakhnath_under_a_tree_outside_his_hut,_ca.1715.jpg) — Public Domain (published before 1931). Wellcome Collection, Hindi MS 371.*
+
 The genuinely datable foundation, however, is earlier and elsewhere:
 
 | Text | Date | Notes |
@@ -131,6 +145,9 @@ So the physical, posture-and-breath yoga most people imagine is **medieval, tant
 and partly Buddhist in origin** — and still āsana-light by modern standards. See
 [[Foundational-Texts]] and [[Asana-Catalogue]].
 
+![Mayūrāsana (peacock pose), plate 16 from an 1830 illustrated manuscript of the *Joga Pradīpikā* (haṭha-yoga text, 1737).](https://upload.wikimedia.org/wikipedia/commons/e/e4/Jogapradipika_16_Mayurasana.jpg)
+*Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Jogapradipika_16_Mayurasana.jpg) — Public Domain (faithful reproduction of an 1830 two-dimensional work). One of 84 āsana paintings in the manuscript.*
+
 ## The colonial encounter & revival (19th c.)
 
 Under British rule yoga was marginal, often associated with disreputable wandering
@@ -141,6 +158,9 @@ Art Institute building, where he greeted "**Sisters and brothers of America!**" 
 meditation and the four paths while **dismissing haṭha's bodily practices** as lower.
 Vivekānanda thus shaped the *idea* of yoga in the West **before** posture yoga existed
 there. See [[Key-Figures]].
+
+![Swami Vivekānanda, Chicago, September 1893, with his handwritten inscription — the photograph taken around the time of his Parliament of Religions address.](https://upload.wikimedia.org/wikipedia/commons/0/0b/Swami_Vivekananda-1893-09-signed.jpg)
+*Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Swami_Vivekananda-1893-09-signed.jpg) — Public Domain (published before 1901, anonymous authorship).*
 
 ## Modern postural yoga (20th c.)
 
@@ -180,6 +200,13 @@ See [[Paths-and-Lineages]] and [[Key-Figures]].
 - The postures themselves → [[Asana-Catalogue]]
 
 ## Sources
+
+**Open primary sources (full text)**
+- [Kaṭha Upaniṣad — Max Müller translation (Wikisource, public domain)](https://en.wikisource.org/wiki/Sacred_Books_of_the_East/Volume_15/Katha-upanishad) — contains the "firm holding back of the senses" definition (Sixth Vallī, 10–11).
+- [Śvetāśvatara Upaniṣad — Max Müller, *Sacred Books of the East* vol. 15 (Internet Archive PD scan)](https://archive.org/details/wg915) — the erect-posture / breath-regulation passage is at p. 231 ff.
+- [Muṇḍaka Upaniṣad — Max Müller translation (Wikisource, public domain)](https://en.wikisource.org/wiki/Sacred_Books_of_the_East/Volume_15/Mundaka-upanishad) — companion text in the same volume.
+
+**Secondary**
 - [Yoga — Wikipedia (etymology, śramaṇa origins, Werner)](https://en.wikipedia.org/wiki/Yoga)
 - [Pashupati seal — Wikipedia (Marshall, Srinivasan, Samuel, Flood)](https://en.wikipedia.org/wiki/Pashupati_seal)
 - [Katha Upanishad 2.3.11 — VivekaVani](https://vivekavani.com/kau2c3v11/)

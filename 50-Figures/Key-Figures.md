@@ -21,6 +21,10 @@ where it forms part of the record.
 | **Matsyendranāth** | early 10th c. (placed 7th–12th c.) | Founder-figure of the **Nāth** (Nātha Sampradāya) | Attributed: *Kaulajñānanirṇaya*, *Matsyendrasaṃhitā* | Foundational guru of the Nāth lineage; tantric/Kaula teachings feeding the subtle-body tradition behind [[Practices\|haṭha]]. |
 | **Gorakṣanāth (Gorakhnāth)** | c. early 11th c. | Nāth; disciple of Matsyendranāth | Works of the Gorakṣa corpus (later attributions) | Credited with **systematising haṭha yoga** and building the monastic structure of the Nāth order; central to medieval subtle-body teachings → [[History-and-Origins]]. |
 
+![Garlanded statue of Patañjali depicted as an incarnation of the serpent Ādiśeṣa, hands joined in añjali](https://upload.wikimedia.org/wikipedia/commons/4/47/Patanjali.jpg)
+
+*A garlanded **Patañjali** murti, shown as an avatar of Ādiśeṣa. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Patanjali.jpg) · Licence: CC BY-SA 3.0 / GFDL · Attribution: Rpba (2006).*
+
 > **Dating note.** Scholars long placed the *Yoga Sūtras* anywhere from 500 BCE to the
 > 3rd c. CE. Philipp A. Maas dates the *Pātañjala-yogaśāstra* to **c. 400 CE** and argues
 > that the same author-redactor wrote both sūtra and commentary — challenging the older
@@ -39,6 +43,18 @@ where it forms part of the record.
 | **Paramahansa Yogananda** | 1893–1952 (b. Mukunda Lal Ghosh) | Kriyā yoga (Lahiri Mahasaya / Yukteswar lineage) | *Autobiography of a Yogi* (1946) | Came to the US in 1920; founded the **Self-Realization Fellowship** (Los Angeles); popularised **kriyā yoga** and devotional yoga to a mass Western audience. |
 | **Swami Sivananda (Saraswati)** | 1887–1963 | Founder, **Divine Life Society** (Rishikesh, 1936) | Prolific author (~200+ books) | Physician in British Malaya → renunciate; built a Rishikesh hub whose "Five Points" frame → [[Paths-and-Lineages]]. Teacher of Satyananda, Vishnudevananda and others. |
 
+![Signed 1893 Chicago portrait of Swami Vivekananda in a turban, arms folded](https://upload.wikimedia.org/wikipedia/commons/0/0b/Swami_Vivekananda-1893-09-signed.jpg)
+
+*The famous signed **Swami Vivekānanda** portrait, Chicago, September 1893. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Swami_Vivekananda-1893-09-signed.jpg) · Licence: Public domain (published 1893, author unknown). · Attribution: photographer unknown.*
+
+![Standard studio portrait of Paramahansa Yogananda, c. 1920](https://upload.wikimedia.org/wikipedia/commons/3/3f/Paramahansa_Yogananda_Standard_Pose.jpg)
+
+*The "standard pose" portrait of **Paramahansa Yogananda**, c. 1920. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Paramahansa_Yogananda_Standard_Pose.jpg) · Licence: Public domain in the US (copyright not renewed). · Attribution: author unknown.*
+
+![Portrait of Swami Sivananda Saraswati](https://upload.wikimedia.org/wikipedia/commons/3/34/Swami_Shivananda_Liebe.jpg)
+
+*A portrait of **Swami Sivananda Saraswati**. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Swami_Shivananda_Liebe.jpg) · Licence: CC BY-SA 3.0 · Attribution: Wikimedia user Nobody60 (2011).*
+
 ### Krishnamacharya & his students — the root of modern posture yoga
 
 | Figure | Dates | Lineage / school | Principal works | Contribution |
@@ -48,6 +64,8 @@ where it forms part of the record.
 | **K. Pattabhi Jois** | 1915–2009 | **Ashtanga Vinyasa** (set series, breath-linked) | *Yoga Mala* (1962) | Originated the flowing set-series practice behind modern vinyasa/"flow" yoga. **Documented misconduct:** multiple women report he sexually assaulted female students during hands-on "adjustments," with video/photographic evidence; his grandson R. Sharath Jois publicly apologised in 2018. |
 | **T.K.V. Desikachar** | 1938–2016 | **Viniyoga** (Krishnamacharya Yoga Mandiram, Chennai) | *The Heart of Yoga* (1995) | Krishnamacharya's son; developed individualised, therapeutic yoga adapted to each student's condition and needs. |
 | **Indra Devi** | 1899–2002 (b. Eugenie Peterson, Riga) | Krishnamacharya student → global teacher | *Forever Young, Forever Healthy* (1953) | First Western woman to study under Krishnamacharya at Mysore; the **"First Lady of Yoga,"** taught Hollywood and later the USSR and Latin America. |
+
+> **No portraits shown here.** The well-known photographs of Krishnamacharya, Iyengar, Pattabhi Jois, Desikachar and Indra Devi are 20th-century images that remain under copyright (or have no verified free licence), so none are embedded. The same applies to the other modern figures and contemporary scholars below.
 
 ### Other notable moderns
 
