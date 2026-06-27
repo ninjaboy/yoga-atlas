@@ -12,14 +12,35 @@ named postures at all. The large posture repertoire is mostly **medieval Haṭha
 
 The traditional symbolic count is **84** — derived from the legend (in the 13th-c.
 *Dattātreyayogaśāstra* and the *Gorakṣaśataka*) that Śiva fashioned one āsana for each of the
-8,400,000 species of living beings, then taught 84 to humankind. But the surviving texts each
-list **different** selections, and most describe only a handful:
+8,400,000 species of living beings, then taught 84 to humankind. Eighty-four is a **round, sacred
+number** in Indian thought (the count of *siddhas*, of pilgrimage sites, of the syllable-cycles
+of certain mantras) rather than a literal inventory — which is why no single early text actually
+delivers eighty-four described postures. The number is a claim of *completeness*, not a list.
 
-- The **Haṭhapradīpikā** (c. 15th c.) names 84 but describes only **15**, with benefits given for just 4.
-- The **Haṭharatnāvalī** (17th c., Śrīnivāsa) is the **earliest text to actually list 84** names.
-- The **Yogacintāmaṇi** (17th c.) and **Jogapradīpikā** (c. 1737) give fuller illustrated sets.
-- The [[Open-Media|Śrītattvanidhi]] (19th-c. Mysore palace, attrib. Kṛṣṇarāja Wodeyar III) already
-  illustrates **122** postures — direct ancestors of the Mysore school's modern repertoire.
+So there is a real gap between what the tradition **counts**, what it **names**, and what it
+**describes** — and each surviving text sits at a different point on that scale:
+
+- The **Haṭhapradīpikā** (HYP, c. 15th c.) repeats the claim that "Śiva taught 84 āsanas" (HYP 1.33)
+  but actually **names and describes only 15**, and gives benefits for just **4** (Siddha, Padma,
+  Siṃha, Bhadra — HYP 1.19). It is a meditation-and-prāṇāyāma manual, not a posture compendium.
+- The **Gheraṇḍa Saṃhitā** (GhS, 17th c.) is the first to **fully describe a substantial set**:
+  it states there are 84 (GhS 2.2) but "thirty-two are useful in this world of mortals" — and then
+  describes **all 32** in clear, one-verse-each instructions (see the dedicated section below).
+- The **Śiva Saṃhitā** (ŚS, c. 17th–18th c.) also invokes 84 (and says 4 are essential, ŚS 3.84),
+  but describes only those **four** (Siddha, Padma, Ugra/Paścimottāna, Svastika).
+- The **Haṭharatnāvalī** (HR, 17th c., Śrīnivāsa) is the **earliest text to actually list 84 āsanas
+  by name** (HR 3.7–20), filling the gap the older texts left open — though it still only describes
+  about **36** of them. Its full list is given near the foot of this note.
+- The **Yogacintāmaṇi** (17th c.) and **Jogapradīpikā** (c. 1737) give fuller *illustrated* sets,
+  the latter the source of most of the plates embedded below.
+- The [[Open-Media|Śrītattvanidhi]] (19th-c. Mysore palace, attrib. Kṛṣṇarāja Wodeyar III) is the
+  most elaborate pre-modern set of all, **illustrating 122 postures** — and is a direct ancestor of
+  the Mysore school's modern repertoire (Krishnamacharya is documented to have drawn on it; see below).
+
+In short: **84 is the symbol, 32 (Gheraṇḍa) is the first real described corpus, 84-by-name first
+appears in the Haṭharatnāvalī, and 122 (Śrītattvanidhi) is the pre-modern high-water mark.** This
+note covers all of these — the 32 in full, the deep textual core with verbatim quotes, and the
+full 84 list — so the atlas matches the tradition's own counts rather than the modern studio's.
 
 > **Provenance flag** (per Mallinson & Singleton, *Roots of Yoga*, 2017). Until ~the 14th c. āsana
 > served mainly as a **stable platform for prāṇāyāma, japa and meditation**, or to build ascetic
@@ -178,6 +199,78 @@ PD Worldwide, via the [Public Domain Review](https://publicdomainreview.org/coll
 **Śrītattvanidhi** (Mysore palace, attrib. Kṛṣṇarāja Wodeyar III, d. 1868 — PD). See also [[Open-Media]].
 
 ---
+
+# 🪷 The Gheraṇḍa Saṃhitā's 32 — the first complete described corpus
+
+If you want to know what a *fully worked-out* set of āsanas looked like before the modern era, this
+is it. The **Gheraṇḍa Saṃhitā** (Lesson II) opens by conceding the symbolic 84, then narrows to a
+teachable canon and — unlike every text before it — actually describes **each one**, almost always
+in a single tidy verse:
+
+> "There are eighty-four hundreds of thousands of Āsanas described by Śiva. The postures are as many
+> in number as there are numbers of species of living creatures in this universe. Among them eighty-four
+> are the best; and among these eighty-four, thirty-two have been found useful for mankind in this world."
+> — **GhS 2.1–2** ([Srisa Chandra Vasu tr.](https://archive.org/stream/in.ernet.dli.2015.36514/2015.36514.Gheranda-Samhita_djvu.txt))
+
+Verses **GhS 2.3–6** then name the thirty-two in order, and **2.7–45** describe them one by one. The
+list below follows the **textual (verse) order** of Vasu's translation — note this differs slightly
+from the looser order in which the names are first recited. A few of these (Siddha, Padma, Bhadra,
+Siṃha, Gomukha, Vīra, Dhanura, Kūrma, Kukkuṭa, Mayūra, Matsyendra, Paścimottāna, Mṛta/Śava) are
+described again with cross-text quotes in the deep-canonical section that follows; here every one of
+the 32 gets at least its one-line definition and verse reference, so the set is **complete**.
+
+| # | Sanskrit (IAST) | Verse | One-line description (Vasu tr.) |
+|---|---|---|---|
+| 1 | **Siddha** (Accomplished) | 2.7 | One heel at the perineum, the other above the organ; gaze between the brows. *Destroys decay and death.* |
+| 2 | **Padma** (Lotus) | 2.8 | Each foot on the opposite thigh, hands crossed behind to grasp the toes, chin to chest, gaze at nose-tip. |
+| 3 | **Bhadra** (Gracious) | 2.9–10 | Heels crosswise under the testes, body held straight, hands joined — *"the perfected Yogis call this the Gorakṣāsana."* |
+| 4 | **Mukta** (Liberated) | 2.11 | Left heel at the root of the organ, right heel above it; head, neck and body kept straight. |
+| 5 | **Vajra** (Adamant) | 2.12 | Make the thighs firm as a thunderbolt and place the legs on either side of the anus (a kneeling seat). |
+| 6 | **Svastika** (Auspicious) | 2.13 | Draw the legs and thighs together and sit at ease, the body held in its natural easy condition. |
+| 7 | **Siṃha** (Lion) | 2.14–15 | Heels crosswise under the scrotum, hands on the knees with fingers spread, mouth open, gaze at nose-tip. |
+| 8 | **Gomukha** (Cow-faced) | 2.16 | Feet on the ground, heels set contrariwise under the buttocks — *"resembling the mouth of a cow."* |
+| 9 | **Vīra** (Hero) | 2.17 | One foot placed on the opposite thigh, the other foot turned back behind. |
+| 10 | **Dhanura** (Bow) | 2.18 | Catch the toes and draw the feet to the ears, bending the body like a drawn bow. |
+| 11 | **Mṛta / Śava** (Corpse) | 2.19 | Lie flat on the back like a corpse — *"removes fatigue and gives rest to the mind."* |
+| 12 | **Gupta** (Hidden) | 2.20 | Hide the feet beneath the knees, placing the seat upon the feet — a concealed cross-legged seat. |
+| 13 | **Matsya** (Fish) | 2.21 | Assume Padmāsana, then lie back and cradle the head in the crooked elbows. *Counter to the inversions.* |
+| 14 | **Matsyendra** (of Matsyendra) | 2.22–23 | Bent-knee seated twist named for the Nāth founder; chin steadied, body turned, gaze over the shoulder. |
+| 15 | **Gorakṣa** (of Gorakṣa) | 2.25–26 | Feet turned upward between the knees and thighs, hands cupped — the seat named for [[Key-Figures|Gorakṣanāth]]. |
+| 16 | **Paścimottāna** (West-stretch) | 2.24 | Legs stiff like a stick, catch the toes and rest the forehead on the knees. *The great seated forward fold.* |
+| 17 | **Utkaṭa** (Raised/Fierce) | 2.27 | Rise onto the toes with the heels lifted, seat resting on the raised heels — a **tip-toe squat**, not the modern "chair." |
+| 18 | **Saṃkaṭa** (Difficult) | 2.28 | Left foot and shin on the ground, the right leg wrapped around the left — an entwined-leg seat. |
+| 19 | **Mayūra** (Peacock) | 2.29–30 | Palms down, navel balanced on the elbows, body and legs stretched out level like a stick. *Burns up bad food and disease.* |
+| 20 | **Kukkuṭa** (Cockerel) | 2.31 | From Padmāsana, thread the hands between thighs and calves and lift the body off the ground. |
+| 21 | **Kūrma** (Tortoise) | 2.32 | Heels set contrariwise under the scrotum, head, neck and body held straight. |
+| 22 | **Uttāna Kūrmaka** (Stretched Tortoise) | 2.33 | From the Cock-posture, clasp the neck with the hands and stay stretched out like a tortoise. |
+| 23 | **Uttāna Maṇḍūka** (Stretched Frog) | 2.35 | From the Frog-posture, hold the head in the elbows and rise up "like a frog." |
+| 24 | **Vṛkṣa** (Tree) | 2.36 | Stand straight on one (left) leg, bending the right and setting the right foot at the root of the thigh. |
+| 25 | **Maṇḍūka** (Frog) | 2.34 | Carry the feet back with the toes touching, knees brought forward — a kneeling frog-squat. |
+| 26 | **Garuḍa** (Eagle) | 2.37 | Press the legs and thighs to the ground, steady the body on the two knees, hands on the knees. (A *seated* form — not the modern wrapped-limb balance.) |
+| 27 | **Vṛṣa** (Bull) | 2.38 | Seat set on the right heel, the left leg crossed over it the opposite way. |
+| 28 | **Śalabha** (Locust) | 2.39 | Lie face-down, palms on the ground, and raise the legs a cubit into the air. |
+| 29 | **Makara** (Crocodile) | 2.40 | Lie face-down, the body stretched, legs apart — *"the increaser of bodily heat."* |
+| 30 | **Uṣṭra** (Camel) | 2.41 | Lie face-down, turn the legs up and back, catching them with the hands. (A *prone* form — not the modern kneeling backbend.) |
+| 31 | **Bhujaṅga** (Serpent) | 2.42–43 | Body from navel to toes on the ground, palms down, raise the head "like a serpent." *Raises bodily heat, destroys disease, rouses the serpent-goddess.* |
+| 32 | **Yoga** (Union) | 2.44–45 | Feet turned up onto the knees, hands on the ground palms-up, inhale and gaze at the nose-tip — *"this posture is assumed by the Yogis when practising Yoga."* |
+
+> *Verse numbers verified against the Vasu (1914–15) translation: the naming list is GhS 2.3–6 and
+> the descriptions run 2.7–2.45. The table follows the description-verse order; the few apparent jumps
+> (Paścimottāna 2.24 before Gorakṣa 2.25–26; Maṇḍūka 2.34 after Vṛkṣa 2.36) reflect the printed order
+> of the Vasu edition itself.*
+
+These thirty-two are the **textual bedrock**: when a modern teacher says a pose is "from the Gheraṇḍa
+Saṃhitā," it is one of the names above. Everything below either deepens these with cross-text quotes
+and period images, or — clearly flagged **⟲** — postdates them by centuries.
+
+---
+
+# 📜 The deep canonical core — verbatim, cross-text
+
+The thirty-two above give the breadth; the entries that follow give the **depth**. These are the
+postures described in **more than one** of the core manuals, so we can set the translations
+side by side and watch the tradition refine a pose across texts — each with a **period image**
+where one survives.
 
 ## Padmāsana — Lotus 🪷
 
@@ -350,6 +443,94 @@ the *amṛta*/bindu), not an exercise. This is the genuine textual root of the i
 
 ---
 
+# 🔢 The full "84" — the Haṭharatnāvalī list
+
+The deep entries above cover the postures the early manuals actually *describe*. But the tradition
+kept promising **84**, and for centuries the number floated free of any list. The **Haṭharatnāvalī**
+(*"String of Jewels on Haṭha"*, 17th c.) of **Śrīnivāsa** is the text that finally **pins the 84 down
+by name** — the earliest surviving work to do so. It enumerates all eighty-four (HR 3.7–20) and then
+describes about **36** of them, frankly admitting that the rest are known only to "Śiva and his
+goddess." Reproducing the list matters because it shows what the symbolic 84 *actually contained*:
+heavy on **variations** (four Padmāsanas, six Mayūrāsanas, three Matsyendrāsanas, several Kukkuṭas),
+on **animal** and **deity** names, and on poses that have since vanished entirely from practice.
+
+The eighty-four, in the order Śrīnivāsa lists them (HR 3.7–20):
+
+| # | Āsana | # | Āsana | # | Āsana |
+|---|---|---|---|---|---|
+| 1 | Siddha | 29 | Candra | 57 | Ekapāda-kukkuṭa |
+| 2 | Bhadra | 30 | Kaṇṭhava | 58 | Ākarita-kukkuṭa |
+| 3 | Vajra | 31 | Ekapādaka | 59 | Bandhacūli-kukkuṭa |
+| 4 | Siṃha | 32 | Phaṇīndra | 60 | Pārśva-kukkuṭa |
+| 5 | Śilpa (Śilpāsana) | 33 | Paścimatāna | 61 | Ardhanārīśvara |
+| 6 | Bandha-padma | 34 | Śayita-paścimatāna | 62 | Baka |
+| 7 | Kara-padma | 35 | Citrakaraṇī | 63 | Dhārāvāha |
+| 8 | Samputita-padma | 36 | Yoganidrā | 64 | Candrakānta |
+| 9 | Śuddha-padma | 37 | Vidhūnana | 65 | Sudhāsāra |
+| 10 | Daṇḍa-mayūra | 38 | Pādapīḍana | 66 | Vyāghra |
+| 11 | Pārśva-mayūra | 39 | Haṃsa | 67 | Rāja |
+| 12 | Sahaja-mayūra | 40 | Nābhītala | 68 | Indrāṇī |
+| 13 | Bandha-mayūra | 41 | Ākāśa | 69 | Śarabha |
+| 14 | Piṇḍa-mayūra | 42 | Utpādatala | 70 | Rata |
+| 15 | Ekapāda-mayūra | 43 | Nābhīlasitapādaka | 71 | Citrapīṭha |
+| 16 | Bhairava | 44 | Vṛścika | 72 | Baddhapakṣi |
+| 17 | Kāmadahana | 45 | Cakra | 73 | Īśvara |
+| 18 | Pāripātra (Paripatra) | 46 | Utphālaka | 74 | Vicitranalina |
+| 19 | Kārmuka | 47 | Uttānakūrma | 75 | Kānta |
+| 20 | Svastika | 48 | Kūrma | 76 | Śuddhapakṣi |
+| 21 | Gomukha | 49 | Baddhakūrma | 77 | Sumandraka |
+| 22 | Vīra | 50 | Narjava | 78 | Cauraṅgī |
+| 23 | Maṇḍūka | 51 | Kabandha | 79 | Krauñca |
+| 24 | Markaṭa | 52 | Gorakṣa | 80 | Dṛḍha |
+| 25 | Matsyendra | 53 | Aṅguṣṭha | 81 | Khaga |
+| 26 | Pārśva-matsyendra | 54 | Muṣṭika | 82 | Brahma |
+| 27 | Baddha-matsyendra | 55 | Brahmaprasādita | 83 | Nāgapīṭha |
+| 28 | Nirālambana | 56 | Pañcacūli-kukkuṭa | 84 | Śava |
+
+> **Read with care.** This list is widely reproduced from Gudrun Bühnemann's reconstruction
+> (*Eighty-Four Āsanas in Yoga*, 2007) and the popular Yogaspirit transcription of it; a handful of
+> the rarer names are spelled inconsistently across editions, and I have **not** been able to collate
+> every name directly against the critical Sanskrit (Lonavla Yoga Institute, 2003). Treat the **count,
+> order and the well-attested names** (the Padma-, Mayūra-, Kukkuṭa- and Matsyendra- families,
+> Gomukha, Kūrma, Gorakṣa, Krauñca, Śava) as reliable, and the most obscure transliterations
+> (e.g. *Narjava*, *Sumandraka*, *Brahmaprasādita*) as provisional. The point the list makes is
+> historical: by the 17th century the symbolic "84" had at last been **filled with real names** —
+> overwhelmingly seated, balancing and prone poses, with *not a single standing balance among them*.
+
+Note too the **Śiva Saṃhitā**'s framing of the same number: it likewise says Śiva taught **84**
+āsanas, of which it singles out only **four** as essential — *"Among the many postures, four are here
+described: Siddha, Padma, Ugra (Paścimottāna) and Svastika"* (ŚS 3.84;
+[Vasu tr.](https://archive.org/stream/SivaSamhita/SivaSamhita_djvu.txt)). The 84 is invoked; the
+practice is four. The Haṭharatnāvalī is the text that finally closes that gap between the number and
+the names.
+
+---
+
+# 🖼️ The Śrītattvanidhi's 122 — the pre-modern summit
+
+If the Haṭharatnāvalī named 84, the **Śrītattvanidhi** *drew* far more. Compiled at the **Mysore
+palace** in the first half of the 19th century (the āsana section attributed to Mahārāja **Kṛṣṇarāja
+Wodeyar III**, r. 1799–1868), its *Sacittāsana* ("illustrated postures") section depicts and briefly
+describes **122 āsanas** — the **largest pre-modern posture collection known**, each shown as a
+coloured palace miniature with a four-line verse of instruction. It freely mixes the inherited Haṭha
+seats with rope- and wall-assisted poses, dynamic movements and acrobatic balances, drawing on
+gymnastic and wrestling (*malla*) culture as much as on the yoga texts.
+
+Its importance is not antiquarian. The Śrītattvanidhi is the **bridge to modern postural yoga**:
+**T. Krishnamacharya**, teaching in the same Mysore palace a century later (1930s–40s), is documented
+by his pupil **N. E. Sjoman** (*The Yoga Tradition of the Mysore Palace*, 1996) to have **had access
+to and drawn on this very manuscript** — so the 122 are a direct textual ancestor of the
+Aṣṭāṅga/Iyengar repertoire that now circles the globe. Several poses appear *here first*: the
+catalogue notes above flag **Setu Bandha** surfacing as the Śrītattvanidhi's *Kāmapīṭhāsana*, and the
+**Uttāna Kūrmāsana** plate embedded earlier in this note is itself a Śrītattvanidhi miniature.
+
+In other words, the modern studio's "ancient" standing and flowing repertoire is best dated **not** to
+the Gheraṇḍa Saṃhitā but to **this 19th-century Mysore line and its 20th-century synthesis** — exactly
+the **⟲ modern** provenance flagged throughout the tables above. The full set of 122 plates is gathered
+in [[Open-Media]].
+
+---
+
 ## Related
 
 - The energetic side of practice (prāṇāyāma, bandha, mudrā) → [[Practices]]
@@ -364,6 +545,13 @@ the *amṛta*/bindu), not an exercise. This is the genuine textual root of the i
 - [Haṭha Yoga Pradīpikā — Pancham Sinh tr. (1914), index](https://www.sacred-texts.com/hin/hyp/index.htm) · [full text, Internet Archive](https://archive.org/stream/HathaYogaPradipika-SanskritTextWithEnglishTranslatlionAndNotes/HathaYogaPradipika-SanskritTextWithEnglishTranslatlionAndNotes_djvu.txt)
 - [Gheraṇḍa Saṃhitā — Srisa Chandra Vasu tr. (1914–15), full text](https://archive.org/stream/in.ernet.dli.2015.36514/2015.36514.Gheranda-Samhita_djvu.txt) · [archive.org item](https://archive.org/details/Gheranda_Samhita)
 - [Śiva Saṃhitā — Srisa Chandra Vasu tr. (1914), full text](https://archive.org/stream/SivaSamhita/SivaSamhita_djvu.txt)
+
+**The 84 / 122 enumerations:**
+
+- [Haṭha Ratnāvalī (Śrīnivāsa, 17th c.) — Wikipedia](https://en.wikipedia.org/wiki/Ha%E1%B9%ADha_Ratn%C4%81val%C4%AB) (earliest text to list 84 āsanas by name; describes 36)
+- [Haṭharatnāvalī — full text PDF (Terebess)](https://terebess.hu/keletkultinfo/lexikon/Hatha-Ratnavali.pdf)
+- [The 84 āsanas of the Haṭharatnāvalī — Yogaspirit transcription](https://catharinehinton.wordpress.com/2011/05/02/the-84-asanas-of-yoga/) (of Bühnemann's reconstruction)
+- Gudrun Bühnemann, *Eighty-Four Āsanas in Yoga: A Survey of Traditions* (DK Printworld, 2007) — the standard scholarly study of the 84-āsana lists.
 
 **Open-licence image collections (public domain):**
 
